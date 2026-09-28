@@ -1,0 +1,34 @@
+/* Photo presentation only. Source files, layout dimensions and inventory stay intact. */
+.product-photo { display: block; position: relative; overflow: hidden; isolation: isolate; }
+.product-photo__plane { position: absolute; inset: 0; background: inherit; transition: transform 600ms cubic-bezier(.2,.65,.3,1); }
+.product-photo__plane > img { position: absolute; display: block; width: 100%; height: 100%; max-width: none; object-fit: contain; object-position: center; }
+
+.product-card__visual { overflow: hidden; }
+.product-card__image-link { padding: 0; overflow: hidden; }
+.product-card__image.product-photo { position: absolute; inset: 0; width: 100%; height: 100%; max-height: none; transform: none; filter: none; }
+@media (hover: hover) {
+  .product-card.is-visible:hover { transform: none; }
+  .product-card:hover .product-card__visual { transform: none; background: var(--product-surface, #f4f5f6); }
+  .product-catalog--mujer .product-card:hover .product-card__visual { background: var(--product-surface, #f4f5f6); }
+  .product-card:hover .product-card__image { transform: none; filter: none; }
+  .product-card__image-link:hover .product-photo__plane { transform: scale(1.025); }
+}
+
+.edit__sneaker.product-photo { position: absolute; inset: 0; width: 100%; height: 100%; transform: none; filter: none; }
+.edit__fig { z-index: 1; color: var(--ink); }
+.edit__fig span { color: inherit; }
+.hero__panel { overflow: hidden; aspect-ratio: 1; }
+.hero__art:has(.product-photo) { position: absolute; inset: 0; animation: none; }
+.hero__sneaker-photo.product-photo { width: 100%; height: 100%; }
+.modal__sneaker.product-photo { aspect-ratio: 1; width: 100%; height: auto; filter: none; animation: none; }
+.modal__art:has(.product-photo) { animation: none; }
+.modal__media:has(.product-photo) { background: var(--photo-background, #f7f7f7); }
+.modal__media:has(.product-photo) .modal__glow,
+.modal__media:has(.product-photo) .modal__grid { display: none; }
+.thumb:has(.product-photo) { padding: 0; overflow: hidden; }
+.thumb__art.product-photo { width: 100%; aspect-ratio: 1; height: auto; }
+.line__sneaker.product-photo { width: 100%; height: 100%; filter: none; }
+@media (prefers-reduced-motion: reduce) {
+  .product-photo__plane { transition: none; }
+  .product-card__image-link:hover .product-photo__plane { transform: none; }
+}
