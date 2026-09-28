@@ -6,17 +6,6 @@ import { PRODUCTS } from '../data/products'
 const EDIT = PRODUCTS.find((p) => p.id === 'h-puma-03') || PRODUCTS[0]
 const EDIT_COLOR = EDIT.colors.find((c) => c.name === 'Marrón') ?? EDIT.colors[0]
 
-/*
- * Datos reales de la pieza, no estadísticas de marketing:
- * sin valoraciones, sin ventas, sin porcentajes inventados y sin precio,
- * que se confirma por WhatsApp.
- */
-const DETAILS = [
-  ['Tipo', EDIT.type],
-  ['Colores', `${EDIT.colors.length} disponibles`],
-  ['Tallas', `${Math.min(...EDIT.sizes.map(Number))} a ${Math.max(...EDIT.sizes.map(Number))} EU`],
-]
-
 /**
  * Bloque editorial que cierra el hero. Una sola pieza de la selección,
  * mucha aire y una composición visual en lugar de una rejilla de productos.
@@ -54,14 +43,6 @@ export default function EditFeature({ onExplore }) {
             </svg>
           </button>
 
-          <dl className="edit__facts">
-            {DETAILS.map(([label, value]) => (
-              <div key={label}>
-                <dt>{label}</dt>
-                <dd>{value}</dd>
-              </div>
-            ))}
-          </dl>
         </div>
       </div>
     </section>
