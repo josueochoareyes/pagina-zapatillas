@@ -186,8 +186,6 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
 
             <ul className="modal__perks">
               <li>{hidePrices ? 'Consulta las opciones de envío' : 'Envío gratis desde 35€'}</li>
-              <li>30 días para devolver</li>
-              <li>2 años de garantía</li>
             </ul>
         </div>
       </div>
