@@ -1,5 +1,5 @@
 /* Collection landing: the existing product grid keeps its own styles. */
-/* La vista cierra justo despues de las dos cards: solo aire inferior.
+/* La vista cierra justo despues de las tarjetas: solo aire inferior.
    El minimo de 96px tambien despeja el boton flotante de WhatsApp (22+52px). */
 .picker {
   background: var(--ivory);
@@ -56,8 +56,8 @@
 .picker__rule span:first-child::before { content: ''; display: inline-block; width: 6px; height: 6px; margin-right: 10px; background: var(--accent); }
 
 .picker__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; margin-top: 24px; scroll-margin-top: 100px; }
-.pcard { min-width: 0; }
-.pcard:nth-child(2) { margin-top: 36px; }
+.pcard { min-width: 0; container-type: inline-size; }
+.pcard:nth-child(2) { margin-top: 0; }
 .pcard__hit {
   display: block;
   position: relative;
@@ -85,8 +85,8 @@
 .pcard__top { position: absolute; top: 26px; left: 28px; right: 28px; display: flex; justify-content: space-between; gap: 12px; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; }
 .pcard__top span:first-child { padding-bottom: 10px; border-bottom: 1px solid rgba(255, 255, 255, 0.55); }
 .pcard__edition { position: absolute; right: 24px; top: 46%; writing-mode: vertical-rl; font-size: 0.6rem; letter-spacing: 0.2em; opacity: 0.85; }
-.pcard__body { position: absolute; bottom: 0; left: 0; right: 0; display: flex; flex-direction: column; align-items: flex-start; padding: clamp(24px, 3vw, 42px); }
-.pcard__label { font-family: var(--font-display); font-size: clamp(2.6rem, 4.8vw, 4.4rem); font-weight: 800; line-height: 1; letter-spacing: -0.035em; text-transform: uppercase; transition: transform 400ms var(--ease); }
+.pcard__body { position: absolute; bottom: 0; left: 0; right: 0; display: flex; flex-direction: column; align-items: flex-start; padding: clamp(20px, 7cqw, 32px); }
+.pcard__label { font-family: var(--font-display); font-size: clamp(1.4rem, 10cqw, 3rem); max-width: 100%; white-space: nowrap; font-weight: 800; line-height: 1; letter-spacing: -0.035em; text-transform: uppercase; transition: transform 400ms var(--ease); }
 .pcard__line { margin-top: 12px; font-size: 0.9rem; color: #eeeeee; }
 .pcard__cta { display: flex; justify-content: space-between; align-items: center; gap: 30px; margin-top: 24px; padding-top: 14px; border-top: 1px solid rgba(255, 255, 255, 0.4); width: 100%; font-size: 0.69rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.17em; transition: transform 400ms var(--ease); }
 .pcard__cta > span { font-size: 1.4rem; line-height: 1; transition: transform 400ms var(--ease); }
@@ -126,10 +126,10 @@
   .picker__aside { padding: 0; border: 0; }
   .picker__number { display: none; }
   .picker__jump { margin-top: 12px; min-height: 40px; }
-  .picker__grid { gap: 20px; }
+  .picker__grid { grid-template-columns: 1fr; gap: 24px; }
   .pcard__top { left: 20px; right: 20px; top: 20px; font-size: 0.56rem; letter-spacing: 0.08em; }
   .pcard__body { padding: 24px 20px; }
-  .pcard__label { font-size: 2.5rem; }
+
   .pcard__line { font-size: 0.78rem; }
   .pcard__edition { display: none; }
 }
@@ -141,7 +141,7 @@
   .picker__grid { grid-template-columns: 1fr; gap: 30px; margin-top: 22px; }
   .pcard:nth-child(2) { margin-top: 0; }
   .pcard__hit { aspect-ratio: 1 / 1.1; }
-  .pcard__label { font-size: clamp(2.6rem, 10vw, 3.5rem); }
+
   .pcard__line { font-size: 0.87rem; }
 }
 @media (prefers-reduced-motion: reduce) {
