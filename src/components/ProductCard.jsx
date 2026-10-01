@@ -42,7 +42,7 @@ export default function ProductCard({ product, index, wished, onToggleWish, onOp
           </div>
         </div>
         <div className="product-card__actions">
-          <button className="product-card__details" type="button" onClick={() => onOpen(product.id, colorIndex)}>Ver zapatilla <span aria-hidden="true">→</span></button>
+          <button className="product-card__details" type="button" onClick={() => onOpen(product.id, colorIndex)}>{product.category === 'accesorios' ? 'Ver accesorio' : 'Ver zapatilla'} <span aria-hidden="true">→</span></button>
           <button className="product-card__add" type="button" onClick={() => onQuickAdd(product, colorIndex)} aria-label={`Añadir ${product.name} al carrito`} title="Añadir al carrito">
             <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true"><path d="M5 8h14l-1 12H6L5 8zM9 8V6a3 3 0 016 0v2M9 14h6m-3-3v6" strokeLinecap="round" strokeLinejoin="round" /></svg>
           </button>

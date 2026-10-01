@@ -1,10 +1,7 @@
 import { useReveal } from '../lib/useReveal'
 import editorialPhoto from '../../images/Inicio/Delamarcaqueeliges/png.png'
 import ProductImage from './ProductImage'
-import { PRODUCTS } from '../data/products'
 
-const EDIT = PRODUCTS.find((p) => p.id === 'h-puma-03') || PRODUCTS[0]
-const EDIT_COLOR = EDIT.colors.find((c) => c.name === 'Marrón') ?? EDIT.colors[0]
 
 /**
  * Bloque editorial que cierra el hero. Una sola pieza de la selección,
@@ -19,7 +16,7 @@ export default function EditFeature({ onExplore }) {
         <div className="edit__visual">
           <span className="edit__disc" aria-hidden="true" />
           <span className="edit__ring" aria-hidden="true" />
-          <ProductImage src={editorialPhoto} className="edit__sneaker" alt="Zapatillas Puma grises con suela blanca" loading="lazy" />
+          <ProductImage src={editorialPhoto} className="edit__sneaker" alt="Selección de marcas de C & E Store" loading="lazy" />
           <p className="edit__fig">
             <span>Fig. 01</span>
             {EDIT.name} — {EDIT_COLOR.name}

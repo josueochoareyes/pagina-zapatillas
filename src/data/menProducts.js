@@ -1,372 +1,922 @@
-// Catálogo de HOMBRE con productos reales organizados por marca
-// Estructura: Nike, Adidas, Puma
-// Las fotos reales están en /images/Catalogo/hombres/[Marca]/[Modelo]/[Color].png
-
+// Modelos y variantes correspondientes a la carpeta images/Catalogo.
+// Precio por confirmar con la tienda.
 export const menProducts = [
-  // ========== NIKE ==========
   {
-    id: "h-nike-01",
-    category: "hombre",
-    name: "Air Force 1 '07 LV8 Denim",
-    brand: "Nike",
-    type: "Lifestyle",
-    price: 159,
-    oldPrice: 189,
-    colors: [
+    "id": "h-adidas-adifom-adilette",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "ADIFOM ADILETTE",
+    "type": "Sandalias",
+    "colors": [
       {
-        name: "Beige",
-        base: "#d4c4a8",
-        accent: "#8b7355",
-        sole: "#f5f1e8",
-        laces: "#d4c4a8",
-        swatch: "#d4c4a8",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Air Force 1 '07 LV8 Denim/Beige.png", import.meta.url).href
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Blanco.png", import.meta.url).href
       },
       {
-        name: "Gris",
-        base: "#8a8d92",
-        accent: "#4a4d52",
-        sole: "#e8e9eb",
-        laces: "#6b6e73",
-        swatch: "#8a8d92",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Air Force 1 '07 LV8 Denim/Gris.png", import.meta.url).href
+        "name": "Negro",
+        "base": "#191919",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Negro.jpg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-nike-02",
-    category: "hombre",
-    name: "Nike Air Force 1",
-    brand: "Nike",
-    type: "Clásico urbano",
-    price: 149,
-    colors: [
+    "id": "h-adidas-adizero-boston-11",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Adizero Boston 11",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Blanco",
-        base: "#f5f5f5",
-        accent: "#ffffff",
-        sole: "#ffffff",
-        laces: "#f0f0f0",
-        swatch: "#ffffff",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Air Force 1/Blanco.png", import.meta.url).href
-      },
-      {
-        name: "Negro",
-        base: "#1a1a1a",
-        accent: "#2d2d2d",
-        sole: "#0f0f0f",
-        laces: "#1a1a1a",
-        swatch: "#1a1a1a",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Air Force 1/Negro.png", import.meta.url).href
+        "name": "Negro",
+        "base": "#191919",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Adizero Boston 11/Negro.png", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45", "46"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-nike-03",
-    category: "hombre",
-    name: "Nike Dunk Low Retro",
-    brand: "Nike",
-    type: "Retro clásico",
-    price: 169,
-    oldPrice: 199,
-    colors: [
+    "id": "h-adidas-chimpunes-copa-pure-3-league",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Chimpunes Copa Pure 3 League",
+    "type": "F?tbol",
+    "colors": [
       {
-        name: "Blanco",
-        base: "#f7f7f7",
-        accent: "#e8e8e8",
-        sole: "#ffffff",
-        laces: "#f0f0f0",
-        swatch: "#ffffff",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Dunk Low Retro/Blanco.png", import.meta.url).href
+        "name": "Blanco y rojo",
+        "base": "#f5f5f5",
+        "accent": "#c93843",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg", import.meta.url).href
       },
       {
-        name: "Celeste",
-        base: "#a7c9e3",
-        accent: "#6b9bc3",
-        sole: "#f5f8fa",
-        laces: "#d1e5f2",
-        swatch: "#a7c9e3",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Dunk Low Retro/Celeste.png", import.meta.url).href
-      },
-      {
-        name: "Negro",
-        base: "#1c1c1c",
-        accent: "#0a0a0a",
-        sole: "#2d2d2d",
-        laces: "#1c1c1c",
-        swatch: "#1c1c1c",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Dunk Low Retro/Negro.png", import.meta.url).href
+        "name": "Blanco y rosa",
+        "base": "#f5f5f5",
+        "accent": "#e4a0bb",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rosa.jpeg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-nike-04",
-    category: "hombre",
-    name: "Nike Revolution 8",
-    brand: "Nike",
-    type: "Running",
-    price: 98,
-    colors: [
+    "id": "h-adidas-courtblock",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Courtblock",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Azul",
-        base: "#2b4a7c",
-        accent: "#1a2d4f",
-        sole: "#e9ecf0",
-        laces: "#4d6a9e",
-        swatch: "#2b4a7c",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Revolution 8/Azul.png", import.meta.url).href
-      },
-      {
-        name: "Blanco y negro",
-        base: "#f0f0f0",
-        accent: "#1a1a1a",
-        sole: "#ffffff",
-        laces: "#8a8a8a",
-        swatch: "#8a8a8a",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Revolution 8/Blanco_y_negro.png", import.meta.url).href
-      },
-      {
-        name: "Negro",
-        base: "#1a1a1a",
-        accent: "#0d0d0d",
-        sole: "#2d2d2d",
-        laces: "#1a1a1a",
-        swatch: "#1a1a1a",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Revolution 8/Negro.png", import.meta.url).href
-      },
-      {
-        name: "Negro y rojo",
-        base: "#1a1a1a",
-        accent: "#c41e3a",
-        sole: "#2d2d2d",
-        laces: "#c41e3a",
-        swatch: "#c41e3a",
-        photo: new URL("../../images/Catalogo/hombres/Nike/Nike Revolution 8/Negro_y_rojo.png", import.meta.url).href
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Courtblock/Blanco.png", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
-  },
-
-  // ========== ADIDAS ==========
-  {
-    id: "h-adidas-01",
-    category: "hombre",
-    name: "Dame X",
-    brand: "Adidas",
-    type: "Basketball",
-    price: 189,
-    colors: [
-      {
-        name: "Azul",
-        base: "#3d5a8c",
-        accent: "#1e3a5f",
-        sole: "#eaeff5",
-        laces: "#5a7cad",
-        swatch: "#3d5a8c",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Dame X/Azul.png", import.meta.url).href
-      }
-    ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-adidas-02",
-    category: "hombre",
-    name: "Drop Step Low 2.0",
-    brand: "Adidas",
-    type: "Lifestyle",
-    price: 135,
-    colors: [
+    "id": "h-adidas-crazyfast-1-cesped-sintetico",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Crazyfast.1 césped sintético",
+    "type": "F?tbol",
+    "colors": [
       {
-        name: "Blanco",
-        base: "#f5f5f5",
-        accent: "#e0e0e0",
-        sole: "#ffffff",
-        laces: "#f0f0f0",
-        swatch: "#ffffff",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Drop Step Low 2.0/Blanco.png", import.meta.url).href
-      },
-      {
-        name: "Gris",
-        base: "#a8aaad",
-        accent: "#6d6f72",
-        sole: "#e8e9ea",
-        laces: "#9194a0",
-        swatch: "#a8aaad",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Drop Step Low 2.0/Gris.png", import.meta.url).href
-      },
-      {
-        name: "Verde",
-        base: "#4a6b4d",
-        accent: "#2d4a30",
-        sole: "#e8f0e9",
-        laces: "#5f8062",
-        swatch: "#4a6b4d",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Drop Step Low 2.0/Verde.png", import.meta.url).href
+        "name": "Verde limon y blanco",
+        "base": "#badb40",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#badb40",
+        "swatch": "#badb40",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-adidas-03",
-    category: "hombre",
-    name: "Forum Low CL",
-    brand: "Adidas",
-    type: "Retro clásico",
-    price: 159,
-    oldPrice: 185,
-    colors: [
+    "id": "h-adidas-dame-certified-extply-2-0",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Dame Certified EXTPLY 2.0",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Beige y marrón",
-        base: "#d4c4a8",
-        accent: "#8b6f47",
-        sole: "#f5f1e8",
-        laces: "#a68a5c",
-        swatch: "#8b6f47",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Forum Low CL/Beige_y_marron.png", import.meta.url).href
+        "name": "Blanco y morado",
+        "base": "#f5f5f5",
+        "accent": "#8753aa",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Dame Certified EXTPLY 2.0/Blanco_y_morado.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-duramo-rc",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Duramo RC",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Verde",
+        "base": "#42875b",
+        "accent": "#42875b",
+        "sole": "#f5f5f5",
+        "laces": "#42875b",
+        "swatch": "#42875b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Duramo RC/Verde.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-f50-messi-club",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "F50 Messi Club",
+    "type": "F?tbol",
+    "colors": [
+      {
+        "name": "Azul y amarillo",
+        "base": "#3265a0",
+        "accent": "#ebcd43",
+        "sole": "#f5f5f5",
+        "laces": "#3265a0",
+        "swatch": "#3265a0",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/F50 Messi Club/Azul_y_amarillo.jpeg", import.meta.url).href
       },
       {
-        name: "Beige y rojo",
-        base: "#d4c4a8",
-        accent: "#c41e3a",
-        sole: "#f5f1e8",
-        laces: "#a68a5c",
-        swatch: "#c41e3a",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/Forum Low CL/Beige_y_rojo.png", import.meta.url).href
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/F50 Messi Club/Blanco.jpeg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-adidas-04",
-    category: "hombre",
-    name: "LA Trainer OG",
-    brand: "Adidas",
-    type: "Retro deportivo",
-    price: 145,
-    colors: [
+    "id": "h-adidas-forum-low-cl",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Forum Low CL",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Azul",
-        base: "#4b6a9f",
-        accent: "#2d4570",
-        sole: "#eef2f7",
-        laces: "#6282b8",
-        swatch: "#4b6a9f",
-        photo: new URL("../../images/Catalogo/hombres/Adidas/LA Trainer OG/Azul.png", import.meta.url).href
-      }
-    ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
-  },
-
-  // ========== PUMA ==========
-  {
-    id: "h-puma-01",
-    category: "hombre",
-    name: "Action Pro",
-    brand: "Puma",
-    type: "Performance",
-    price: 119,
-    colors: [
-      {
-        name: "Gris",
-        base: "#9a9da2",
-        accent: "#5d6064",
-        sole: "#e8e9eb",
-        laces: "#7a7d82",
-        swatch: "#9a9da2",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Action Pro/Gris.png", import.meta.url).href
+        "name": "Blanco y azul",
+        "base": "#f5f5f5",
+        "accent": "#3265a0",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_azul.jpeg", import.meta.url).href
       },
       {
-        name: "Negro",
-        base: "#1a1a1a",
-        accent: "#0d0d0d",
-        sole: "#2d2d2d",
-        laces: "#1a1a1a",
-        swatch: "#1a1a1a",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Action Pro/Negro.png", import.meta.url).href
+        "name": "Blanco y negro",
+        "base": "#f5f5f5",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_negro.jpeg", import.meta.url).href
       },
       {
-        name: "Verde",
-        base: "#3d5c3f",
-        accent: "#244026",
-        sole: "#e5ede6",
-        laces: "#527454",
-        swatch: "#3d5c3f",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Action Pro/Verde.png", import.meta.url).href
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Forum Low CL/Blanco.jpeg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-puma-02",
-    category: "hombre",
-    name: "Suede Dressed",
-    brand: "Puma",
-    type: "Lifestyle clásico",
-    price: 129,
-    oldPrice: 155,
-    colors: [
+    "id": "h-adidas-gazelle-crepe-clot",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Gazelle Crepe CLOT",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Marrón",
-        base: "#6b4423",
-        accent: "#8b5a2b",
-        sole: "#f0e7d8",
-        laces: "#9d6f3d",
-        swatch: "#6b4423",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Suede Dressed/Marron.png", import.meta.url).href
+        "name": "Azul marino",
+        "base": "#20334c",
+        "accent": "#20334c",
+        "sole": "#f5f5f5",
+        "laces": "#20334c",
+        "swatch": "#20334c",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Gazelle Crepe CLOT/Azul_marino.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-heawyn",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "HEAWYN",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Azul marino",
+        "base": "#20334c",
+        "accent": "#20334c",
+        "sole": "#f5f5f5",
+        "laces": "#20334c",
+        "swatch": "#20334c",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/HEAWYN/Azul_marino.jpg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-jeremy-scott-monogram-adilette-wings",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Jeremy Scott Monogram Adilette Wings",
+    "type": "Sandalias",
+    "colors": [
+      {
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-lite-racer-2-0",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Lite Racer 2.0",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Negro y blanco",
+        "base": "#191919",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Lite Racer 2.0/Negro_y_blanco.jpg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-ozweego",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Ozweego",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Azul",
+        "base": "#3265a0",
+        "accent": "#3265a0",
+        "sole": "#f5f5f5",
+        "laces": "#3265a0",
+        "swatch": "#3265a0",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Ozweego/Azul.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-pureboost",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Pureboost",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Gris",
+        "base": "#92969b",
+        "accent": "#92969b",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Pureboost/Gris.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-questar-drive-training",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Questar Drive Training",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Gris y amarillo",
+        "base": "#92969b",
+        "accent": "#ebcd43",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_amarillo.jpg", import.meta.url).href
       },
       {
-        name: "Negro",
-        base: "#1c1c1c",
-        accent: "#0a0a0a",
-        sole: "#2d2d2d",
-        laces: "#1c1c1c",
-        swatch: "#1c1c1c",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Suede Dressed/Negro.png", import.meta.url).href
+        "name": "Gris y negro",
+        "base": "#92969b",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_negro.jpg", import.meta.url).href
+      },
+      {
+        "name": "Gris",
+        "base": "#92969b",
+        "accent": "#92969b",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Questar Drive Training/Gris.jpg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-puma-03",
-    category: "hombre",
-    name: "Suede XL Shadow",
-    brand: "Puma",
-    type: "Lifestyle urbano",
-    price: 139,
-    colors: [
+    "id": "h-adidas-running-runfalcon-5",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Running Runfalcon 5",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Gris",
-        base: "#b5b8bc",
-        accent: "#6d7074",
-        sole: "#eaebec",
-        laces: "#8d9094",
-        swatch: "#b5b8bc",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Suede XL Shadow/Gris.png", import.meta.url).href
+        "name": "Azul oscuro y blanco",
+        "base": "#20334c",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#20334c",
+        "swatch": "#20334c",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Running Runfalcon 5/Azul_oscuro_y_blanco.jpeg", import.meta.url).href
+      },
+      {
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Running Runfalcon 5/Blanco.jpeg", import.meta.url).href
+      },
+      {
+        "name": "Negro y blanco",
+        "base": "#191919",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Running Runfalcon 5/Negro_y_blanco.jpeg", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   },
   {
-    id: "h-puma-04",
-    category: "hombre",
-    name: "Suede XL Slappy Sessionz",
-    brand: "Puma",
-    type: "Edición especial",
-    price: 149,
-    colors: [
+    "id": "h-adidas-solar-control-men-s-running",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "Solar Control Men's Running",
+    "type": "Zapatillas",
+    "colors": [
       {
-        name: "Gris",
-        base: "#a8abaf",
-        accent: "#5f6266",
-        sole: "#e7e8ea",
-        laces: "#888b8f",
-        swatch: "#a8abaf",
-        photo: new URL("../../images/Catalogo/hombres/Puma/Suede XL Slappy Sessionz/Gris.png", import.meta.url).href
+        "name": "Gris",
+        "base": "#92969b",
+        "accent": "#92969b",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/Solar Control Men's Running/Gris.png", import.meta.url).href
       }
     ],
-    sizes: ["40", "41", "42", "43", "44", "45"]
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-adidas-znchill-lightmotion",
+    "category": "hombre",
+    "brand": "Adidas",
+    "name": "ZNCHILL LIGHTMOTION+",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Gris",
+        "base": "#92969b",
+        "accent": "#92969b",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Adidas/ZNCHILL LIGHTMOTION+/Gris.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-air-max-systm",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Air Max SYSTM",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Negro",
+        "base": "#191919",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Air Max SYSTM/Negro.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-jordan-super-play-slide",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Jordan Super Play Slide",
+    "type": "Sandalias",
+    "colors": [
+      {
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Jordan Super Play Slide/Blanco.jpeg", import.meta.url).href
+      },
+      {
+        "name": "Morado",
+        "base": "#8753aa",
+        "accent": "#8753aa",
+        "sole": "#f5f5f5",
+        "laces": "#8753aa",
+        "swatch": "#8753aa",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Jordan Super Play Slide/Morado.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-legend-essential-3-next-nature",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Legend Essential 3 Next Nature",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Gris",
+        "base": "#92969b",
+        "accent": "#92969b",
+        "sole": "#f5f5f5",
+        "laces": "#92969b",
+        "swatch": "#92969b",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Legend Essential 3 Next Nature/Gris.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-mercurial-superfly-9",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Mercurial Superfly 9",
+    "type": "F?tbol",
+    "colors": [
+      {
+        "name": "Beige y negro",
+        "base": "#d4c4a8",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#d4c4a8",
+        "swatch": "#d4c4a8",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Mercurial Superfly 9/beige_y_negro.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-mercurial-vapor-15-club",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Mercurial Vapor 15 Club",
+    "type": "F?tbol",
+    "colors": [
+      {
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Mercurial Vapor 15 Club/Blanco.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-nike-air-max-bolt",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Nike Air Max Bolt",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Blanco y negro",
+        "base": "#f5f5f5",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-nike-blazer-low-pro-club",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Nike Blazer Low Pro Club",
+    "type": "F?tbol",
+    "colors": [
+      {
+        "name": "Verde Vintage",
+        "base": "#728878",
+        "accent": "#728878",
+        "sole": "#f5f5f5",
+        "laces": "#728878",
+        "swatch": "#728878",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-nike-flex-control-4",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Nike Flex Control 4",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Blanco",
+        "base": "#f5f5f5",
+        "accent": "#f5f5f5",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Nike Flex Control 4/Blanco.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-phantom-gx-2-club",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Phantom GX 2 Club",
+    "type": "F?tbol",
+    "colors": [
+      {
+        "name": "Celeste",
+        "base": "#93cce5",
+        "accent": "#93cce5",
+        "sole": "#f5f5f5",
+        "laces": "#93cce5",
+        "swatch": "#93cce5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Phantom GX 2 Club/Celeste.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-nike-terra-manta",
+    "category": "hombre",
+    "brand": "Nike",
+    "name": "Terra Manta",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Blanco y azul",
+        "base": "#f5f5f5",
+        "accent": "#3265a0",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_azul.png", import.meta.url).href
+      },
+      {
+        "name": "Blanco y marron",
+        "base": "#f5f5f5",
+        "accent": "#956743",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_marron.png", import.meta.url).href
+      },
+      {
+        "name": "Blanco y negro",
+        "base": "#f5f5f5",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#f5f5f5",
+        "swatch": "#f5f5f5",
+        "photo": new URL("../../images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_negro.png", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
+  },
+  {
+    "id": "h-puma-ferrari-gigante-mid-leather-sf-10",
+    "category": "hombre",
+    "brand": "Puma",
+    "name": "Ferrari Gigante Mid Leather SF 10",
+    "type": "Zapatillas",
+    "colors": [
+      {
+        "name": "Negro",
+        "base": "#191919",
+        "accent": "#191919",
+        "sole": "#f5f5f5",
+        "laces": "#191919",
+        "swatch": "#191919",
+        "photo": new URL("../../images/Catalogo/hombres/Puma/Ferrari Gigante Mid Leather SF 10/Negro.jpeg", import.meta.url).href
+      }
+    ],
+    "price": 0,
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44",
+      "45"
+    ]
   }
 ]

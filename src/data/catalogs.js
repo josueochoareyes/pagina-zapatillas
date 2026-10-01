@@ -1,9 +1,12 @@
 import { menProducts } from './menProducts.js'
 import { womenProducts } from './womenProducts.js'
 
+import { accessoryProducts } from './accessoryProducts.js'
+
 export const BRANDS = ['Nike', 'Adidas', 'Puma']
 
 export const CATALOGS = {
+  accesorios: { id: 'accesorios', label: 'Accesorios', description: 'Mochilas y balones para acompañarte cada día.', editorial: 'Completa tu estilo.', products: accessoryProducts },
   hombre: {
     id: 'hombre',
     label: 'Hombre',

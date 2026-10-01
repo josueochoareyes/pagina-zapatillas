@@ -8,7 +8,7 @@ import { productMessage, waLink } from '../lib/whatsapp'
 
 export default function ProductModal({ product, wished, onToggleWish, onClose, onAdd, hidePrices = false, initialColorIndex = 0 }) {
   const [colorIndex, setColorIndex] = useState(initialColorIndex)
-  const [size, setSize] = useState(null)
+  const [size, setSize] = useState(product?.category === 'accesorios' ? 'Única' : null)
   const [qty, setQty] = useState(1)
   const [sizeError, setSizeError] = useState(false)
   const [guideOpen, setGuideOpen] = useState(false)
@@ -16,7 +16,7 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
   useEffect(() => {
     if (product) {
       setColorIndex(initialColorIndex)
-      setSize(null)
+      setSize(product.category === 'accesorios' ? 'Única' : null)
       setQty(1)
       setSizeError(false)
       setGuideOpen(false)
@@ -109,13 +109,13 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
 
           <div className="field">
             <div className="field__labelrow">
-              <p className="field__label">Talla</p>
-              <button className="sizeguide__link" type="button" onClick={() => setGuideOpen(true)}>
+              <p className="field__label">{product.category === 'accesorios' ? 'Presentación' : 'Talla'}</p>
+              {product.category !== 'accesorios' && <button className="sizeguide__link" type="button" onClick={() => setGuideOpen(true)}>
                 Guía de tallas
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
                   <path d="M7 17L17 7M9 7h8v8" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
-              </button>
+              </button>}
             </div>
             <div className="sizes" role="group" aria-label="Elige talla">
               {run.map((s) => {

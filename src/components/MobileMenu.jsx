@@ -9,6 +9,7 @@ const LINKS = [
 
 const KIDS = [
   { label: 'Hombre', go: 'hombre', note: 'Zapatillas con carácter deportivo' },
+  { label: 'Accesorios', go: 'accesorios', note: 'Mochilas y balones para cada día' },
   { label: 'Mujer', go: 'mujer', note: 'Diseño para cada movimiento' },
 ]
 

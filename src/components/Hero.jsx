@@ -1,13 +1,10 @@
-import { swatchBackground } from '../lib/swatch'
-﻿import { useEffect, useMemo, useState } from 'react'
+﻿import { useEffect, useState } from 'react'
 import SneakerArt from './SneakerArt'
 import ProductImage from './ProductImage'
-import brownPhoto from '../../images/Inicio/Zapatillas Suede Dressed/Marron.png'
-import blackPhoto from '../../images/Inicio/Zapatillas Suede Dressed/Negro.png'
+import homePhoto from '../../images/Inicio/logo.jpeg'
 import { PRODUCTS } from '../data/products'
 import { BRANDS } from '../data/catalogs'
 
-const FEATURED = PRODUCTS.find((p) => p.id === 'h-puma-02') || PRODUCTS[0]
 
 /*
  * La tienda no muestra precios ni descuentos en portada: se confirman por
@@ -17,13 +14,11 @@ const FEATURED = PRODUCTS.find((p) => p.id === 'h-puma-02') || PRODUCTS[0]
 const STATS = [
   [String(PRODUCTS.length), 'Modelos', 'disponibles'],
   [String(BRANDS.length), 'Marcas', 'en la tienda'],
-  ['2', 'Colecciones', 'hombre y mujer'],
+  ['3', 'Colecciones', 'para elegir'],
 ]
 
 export default function Hero({ onExplore }) {
-  const heroColors = useMemo(() => FEATURED.colors.map(color => ({ ...color, photo: color.name === 'Negro' ? blackPhoto : brownPhoto })), [])
-  const defaultIndex = heroColors.findIndex((c) => c.name.includes('Oro') || c.name.includes('Marrón'))
-  const [shown, setShown] = useState(heroColors[defaultIndex >= 0 ? defaultIndex : 0])
+  const shown = { photo: homePhoto, accent: '#c6a77d', name: 'C & E Store' }
   const [on, setOn] = useState(false)
 
   useEffect(() => {
@@ -54,7 +49,7 @@ export default function Hero({ onExplore }) {
           </h1>
 
           <p className={`hero__lead reveal ${on ? 'is-in' : ''}`} style={{ '--d': '300ms' }}>
-            Una tienda multimarca con colecciones de <strong>hombre</strong> y <strong>mujer</strong>.
+            Una tienda multimarca con colecciones de <strong>hombre</strong>, <strong>mujer</strong> y <strong>accesorios</strong>.
             Elige tu modelo, tu talla y tu color, y confírmalo con nosotros.
           </p>
 
@@ -103,45 +98,16 @@ export default function Hero({ onExplore }) {
               {shown.photo ? (
                 <ProductImage
                   src={shown.photo} 
-                  alt={`${FEATURED.name} - ${shown.name}`}
+                  alt="C & E Store ? tienda multimarca"
                   className="hero__sneaker-photo"
                   loading="eager"
                 />
               ) : (
-                <SneakerArt colorway={shown} className="hero__sneaker" title={FEATURED.name} />
+                <SneakerArt colorway={shown} className="hero__sneaker" title="C & E Store" />
               )}
             </div>
           </div>
 
-          <figcaption className="hero__meta">
-            <div className="hero__id">
-              <p className="hero__id-brand">{FEATURED.brand}</p>
-              <h2 className="hero__id-name">{FEATURED.name}</h2>
-              <p className="hero__id-type">
-                {FEATURED.type} · <span>{shown.name}</span>
-              </p>
-            </div>
-          </figcaption>
-
-          <div className="hero__colors">
-            <span className="hero__colors-label">Color</span>
-            <div className="swatches swatches--lg" role="group" aria-label="Colores del producto destacado">
-              {heroColors.map((cw) => (
-                <button
-                  key={cw.name}
-                  type="button"
-                  className={`swatch swatch--ring ${cw.name === shown.name ? 'is-on' : ''}`}
-                  style={{ background: swatchBackground(cw) }}
-                  onClick={() => setShown(cw)}
-                  onMouseEnter={() => setShown(cw)}
-                  title={cw.name}
-                  aria-label={`Ver ${cw.name}`}
-                  aria-pressed={cw.name === shown.name}
-                />
-              ))}
-            </div>
-            <span className="hero__color-name">{shown.name}</span>
-          </div>
         </figure>
       </div>
     </section>

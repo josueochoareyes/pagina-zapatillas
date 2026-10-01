@@ -41,7 +41,7 @@ export default function About({ onNavigate }) {
       </Reveal>
       <Reveal className="about-selection">
         <div className="about-selection__intro"><span className="about-section-number" aria-hidden="true">01 /</span><h2>Una selección<br />para cada estilo.</h2><div><p>No todos buscan lo mismo. Por eso reunimos modelos de diferentes marcas, estilos y siluetas para que puedas encontrar unas zapatillas que realmente vayan contigo.</p><ul className="about-style-tags" aria-label="Estilos para descubrir">{['Urbano', 'Deportivo', 'Casual', 'Clásico', 'De diario'].map(style => <li key={style}>{style}</li>)}</ul></div></div>
-        <dl className="about-facts"><div><dt>{BRANDS.length} marcas</dt><dd>Una selección multimarca.</dd></div><div><dt>Hombre + Mujer</dt><dd>Dos colecciones para explorar a tu manera.</dd></div><div><dt>Diferentes propuestas</dt><dd>Más opciones para encontrar tu estilo.</dd></div></dl>
+        <dl className="about-facts"><div><dt>{BRANDS.length} marcas</dt><dd>Una selección multimarca.</dd></div><div><dt>Hombre + Mujer + Accesorios</dt><dd>Tres colecciones para explorar a tu manera.</dd></div><div><dt>Diferentes propuestas</dt><dd>Más opciones para encontrar tu estilo.</dd></div></dl>
       </Reveal>
       <Reveal className="about-pillars">
         <div><p className="about-kicker">Nuestra forma de seleccionar</p><h2>Lo que buscamos<br />en cada selección.</h2></div>

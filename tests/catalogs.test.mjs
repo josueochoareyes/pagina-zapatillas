@@ -2,14 +2,14 @@ import test from 'node:test'
 import assert from 'node:assert/strict'
 import { CATALOGS, BRANDS, filterCatalog } from '../src/data/catalogs.js'
 
-test('Hombre and Mujer have independent original inventories', () => {
+test('Hombre and Mujer have independent updated inventories', () => {
   const men = CATALOGS.hombre.products
   const women = CATALOGS.mujer.products
-  assert.equal(men.length, 12)
-  assert.equal(women.length, 12)
+  assert.equal(men.length, 30)
+  assert.equal(women.length, 7)
   assert.ok(men.every(p => p.category === 'hombre' && p.id.startsWith('h')))
   assert.ok(women.every(p => p.category === 'mujer' && p.id.startsWith('m')))
-  assert.equal(new Set([...men, ...women].map(p => p.id)).size, 24)
+  assert.equal(new Set([...men, ...women].map(p => p.id)).size, 37)
   assert.ok(men.every(p => !women.some(w => w.id === p.id || w.colors === p.colors)))
   assert.ok([...men, ...women].every(p => p.sizes.length && p.colors.length && Number.isFinite(p.price)))
 })
@@ -22,7 +22,7 @@ for (const collection of Object.values(CATALOGS)) {
       assert.equal(result.length, collection.products.filter(p => p.brand === brand).length)
       assert.ok(result.every(p => p.category === collection.id && p.brand === brand))
     }
-    assert.equal(filterCatalog(collection.products, { brand: 'todos' }).length, 12)
+    assert.equal(filterCatalog(collection.products, { brand: 'todos' }).length, collection.products.length)
   })
   test(`${collection.label}: name search, accents, sorting and empty state`, () => {
     const product = collection.products[0]

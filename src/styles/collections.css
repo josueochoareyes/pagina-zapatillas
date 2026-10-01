@@ -55,7 +55,7 @@
 .picker__rule { padding-top: 16px; border-top: 1px solid var(--line-2); }
 .picker__rule span:first-child::before { content: ''; display: inline-block; width: 6px; height: 6px; margin-right: 10px; background: var(--accent); }
 
-.picker__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; margin-top: 24px; scroll-margin-top: 100px; }
+.picker__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; margin-top: 24px; scroll-margin-top: 100px; }
 .pcard { min-width: 0; }
 .pcard:nth-child(2) { margin-top: 36px; }
 .pcard__hit {

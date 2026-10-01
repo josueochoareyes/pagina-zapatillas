@@ -1,12 +1,13 @@
+import { CATEGORIES } from '../data/products'
 export default function CatalogHeader({ collection, onBack, onCollection }) {
   return (
     <header className="product-catalog__header">
       <div className="product-catalog__navigation">
         <button type="button" className="product-catalog__back" onClick={onBack}><span aria-hidden="true">←</span> Colecciones</button>
         <nav aria-label="Cambiar colección" className="collection-switch">
-          {['hombre', 'mujer'].map((id) => (
+          {CATEGORIES.map(({ id, label }) => (
             <button key={id} type="button" aria-current={collection.id === id ? 'page' : undefined} onClick={() => onCollection(id)}>
-              {id === 'hombre' ? 'Hombre' : 'Mujer'}
+              {label}
             </button>
           ))}
         </nav>

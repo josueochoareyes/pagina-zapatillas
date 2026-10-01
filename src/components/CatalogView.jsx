@@ -24,7 +24,7 @@ export default function CatalogView({ collection, resultCount, sort, onSort, onB
           onReset={onReset}
         />
         <ProductGrid key={signature} {...gridProps} onReset={onReset} />
-        <p className="product-catalog__note">Imágenes ilustrativas de referencia. Las fotografías de cada modelo se incorporarán a su ficha.</p>
+        <p className="product-catalog__note">Consulta disponibilidad y detalles de cada modelo por WhatsApp.</p>
       </div>
     </section>
   )

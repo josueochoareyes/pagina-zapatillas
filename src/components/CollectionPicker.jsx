@@ -1,3 +1,4 @@
+import accesoriosPhoto from '../../images/Catalogo/accesorios.png'
 import hombrePhoto from '../../images/Catalogo/hombre.png'
 import mujerPhoto from '../../images/Catalogo/mujer.png'
 import { CATEGORIES, byCategory } from '../data/products'
@@ -5,6 +6,7 @@ import { useReveal } from '../lib/useReveal'
 import CollectionCard from './CollectionCard'
 
 const COPY = {
+  accesorios: { photo: accesoriosPhoto, line: 'Explora mochilas y balones.', note: 'Completa tu estilo' },
   hombre: { photo: hombrePhoto, line: 'Explora la colección masculina.', note: 'Carácter en cada paso' },
   mujer: { photo: mujerPhoto, line: 'Explora la colección femenina.', note: 'Tu estilo, tu ritmo' },
 }
@@ -25,8 +27,8 @@ export default function CollectionPicker({ onPick }) {
           <div className="picker__intro">
             <h1 id="collection-title" className="picker__title">Elige tu<br /><em>colección</em><span aria-hidden="true">.</span></h1>
             <div className="picker__aside">
-              <span className="picker__number" aria-hidden="true">02</span>
-              <p className="picker__lead">Dos selecciones distintas, mismo estándar.<br />Elige por dónde quieres empezar.</p>
+              <span className="picker__number" aria-hidden="true">03</span>
+              <p className="picker__lead">Tres selecciones distintas, mismo estándar.<br />Elige por dónde quieres empezar.</p>
               <a className="picker__jump" href="#colecciones">Encuentra tu próximo par <span aria-hidden="true">↓</span></a>
             </div>
           </div>

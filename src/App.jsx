@@ -113,7 +113,7 @@ export default function App() {
       })
       return
     }
-    if (target === 'hombre' || target === 'mujer') {
+    if (target === 'hombre' || target === 'mujer' || target === 'accesorios') {
       goCollection(target)
       return
     }

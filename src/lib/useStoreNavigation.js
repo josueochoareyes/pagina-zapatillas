@@ -4,7 +4,7 @@ const PATHS = { home: '/', picker: '/catalogo', about: '/nosotros', favorites: '
 
 const readLocation = () => {
   const path = window.location.pathname.replace(/\/$/, '') || '/'
-  const collection = path.match(/^\/catalogo\/(hombre|mujer)$/)
+  const collection = path.match(/^\/catalogo\/(hombre|mujer|accesorios)$/)
   if (collection) return { stage: 'catalog', category: collection[1] }
   const stage = Object.keys(PATHS).find((s) => PATHS[s] === path)
   if (stage) return { stage, category: 'hombre' }
