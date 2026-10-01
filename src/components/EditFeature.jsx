@@ -19,7 +19,7 @@ export default function EditFeature({ onExplore }) {
           <ProductImage src={editorialPhoto} className="edit__sneaker" alt="Selección de marcas de C & E Store" loading="lazy" />
           <p className="edit__fig">
             <span>Fig. 01</span>
-            {EDIT.name} — {EDIT_COLOR.name}
+            C &amp; E Store
           </p>
         </div>
 
