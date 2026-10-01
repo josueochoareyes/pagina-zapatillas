@@ -19,7 +19,7 @@ export const generalMessage = () =>
   [
     `Hola ${STORE_NAME},`,
     '',
-    'Me gustaría recibir más información sobre las zapatillas que venden.',
+    'Me gustaría recibir más información sobre las zapatillas y accesorios que venden.',
     '',
     `Web: ${siteUrl()}`,
   ].join('\n')

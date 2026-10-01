@@ -4,7 +4,7 @@ export default function ProductGrid({ products, wishes, onToggleWish, onOpen, on
   if (!products.length) return (
     <div className="catalog-empty">
       <span className="catalog-empty__mark" aria-hidden="true">↗</span>
-      <h2>No encontramos zapatillas con estos filtros.</h2>
+      <h2>No encontramos productos con estos filtros.</h2>
       <p>Prueba con otro nombre o descubre todas las marcas de esta colección.</p>
       <button type="button" className="btn btn--primary" onClick={onReset}>Limpiar filtros</button>
     </div>

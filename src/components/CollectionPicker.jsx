@@ -29,7 +29,7 @@ export default function CollectionPicker({ onPick }) {
             <div className="picker__aside">
               <span className="picker__number" aria-hidden="true">03</span>
               <p className="picker__lead">Tres selecciones distintas, mismo estándar.<br />Elige por dónde quieres empezar.</p>
-              <a className="picker__jump" href="#colecciones">Encuentra tu próximo par <span aria-hidden="true">↓</span></a>
+              <a className="picker__jump" href="#colecciones">Encuentra tu próximo favorito <span aria-hidden="true">↓</span></a>
             </div>
           </div>
           <div className="picker__rule" aria-hidden="true"><span>01 — Selección de colecciones</span><span>Diseño para moverte</span></div>

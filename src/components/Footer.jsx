@@ -11,6 +11,7 @@ const COLLECTIONS = [
   ['Catálogo', '/catalogo', 'catalogo'],
   ['Hombre',   '/catalogo/hombre', 'hombre'],
   ['Mujer',    '/catalogo/mujer',  'mujer'],
+  ['Accesorios', '/catalogo/accesorios', 'accesorios'],
 ]
 
 const STORE_LINKS = [
@@ -34,7 +35,7 @@ export default function Footer({ onNavigate }) {
               <br />
               <em>El estilo que buscas.</em>
             </p>
-            <p className="footer__sub">Tienda multimarca de zapatillas.</p>
+            <p className="footer__sub">Tienda multimarca de zapatillas y accesorios.</p>
 
             {/* CTA WhatsApp */}
             <a
@@ -106,7 +107,7 @@ export default function Footer({ onNavigate }) {
             © {new Date().getFullYear()} C&amp;E Store · Todos los derechos reservados.
           </p>
           <p className="footer__claim">
-            Zapatillas. Marcas. <em>Tu estilo.</em>
+            Zapatillas. Accesorios. <em>Tu estilo.</em>
           </p>
         </div>
       </div>

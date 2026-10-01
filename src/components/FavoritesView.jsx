@@ -29,7 +29,7 @@ export default function FavoritesView({ gridProps, onExplore }) {
             setSelected(previous => { const next = new Set(previous); next.delete(id); return next })
             gridProps.onToggleWish(id)
           }} />
-        </> : <div className="catalog-empty"><h2>Tu próximo par está por descubrir.</h2><p>Toca el corazón de una zapatilla para guardarla aquí.</p><button type="button" className="btn btn--primary" onClick={onExplore}>Explorar colecciones</button></div>}
+        </> : <div className="catalog-empty"><h2>Tu próximo favorito está por descubrir.</h2><p>Toca el corazón de un producto para guardarla aquí.</p><button type="button" className="btn btn--primary" onClick={onExplore}>Explorar colecciones</button></div>}
       </div>
     </section>
   )

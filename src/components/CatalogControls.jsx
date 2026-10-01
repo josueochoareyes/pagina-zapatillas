@@ -105,8 +105,8 @@ export default function CatalogControls({ activeBrand, onBrand, search, onSearch
         <div className="ccontrols__search">
           <label className="csearch" htmlFor="catalog-search">
             <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" strokeWidth="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="m16 16 4 4" /></svg>
-            <span className="sr-only">Buscar zapatillas por nombre o marca</span>
-            <input id="catalog-search" type="search" placeholder="Buscar zapatillas" value={search} onChange={(event) => onSearch(event.target.value)} />
+            <span className="sr-only">Buscar productos por nombre o marca</span>
+            <input id="catalog-search" type="search" placeholder="Buscar productos" value={search} onChange={(event) => onSearch(event.target.value)} />
             {search !== '' && (
               <button type="button" className="csearch__clear" onClick={() => onSearch('')} aria-label="Borrar la búsqueda">
                 <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden="true"><path d="m6 6 12 12M18 6 6 18" strokeLinecap="round" /></svg>
