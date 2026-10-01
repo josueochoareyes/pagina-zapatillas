@@ -54,6 +54,20 @@ export default function About({ onNavigate }) {
         <div className="about-culture__copy"><p>Las zapatillas dejaron de ser solamente calzado. Hoy forman parte de la música, el deporte, la moda urbana y la manera en la que cada persona expresa su estilo.</p><p>En C &amp; E Store reunimos diferentes propuestas para que encuentres la que encaje contigo.</p></div>
         <p className="about-culture__line">Música <span>Deporte</span> Moda urbana <span>Tu identidad</span></p>
       </Reveal>
+      <Reveal id="redes" className="about-social">
+        <div className="about-social__copy">
+          <p className="about-kicker">Nuestras redes</p>
+          <h2>El estilo sigue.<br /><em>Conecta con nosotros.</em></h2>
+          <p className="about-social__lead">Sigue a C &amp; E Store en Facebook y descubre lo que compartimos con nuestra comunidad.</p>
+        </div>
+        <a className="facebook-card" href="https://www.facebook.com/share/16D2yPLvDo5/" target="_blank" rel="noopener noreferrer" aria-label="Visitar C & E Store en Facebook (abre en otra pestaña)">
+          <span className="facebook-card__top"><span>Encuéntranos en</span><span aria-hidden="true">↗</span></span>
+          <span className="facebook-card__icon" aria-hidden="true"><svg viewBox="0 0 24 24" width="52" height="52" fill="currentColor"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073c0 6.025 4.388 11.02 10.125 11.927v-8.437H7.078v-3.49h3.047v-2.66c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.235 2.686.235v2.97h-1.513c-1.491 0-1.956.931-1.956 1.887v2.265h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.098 24 12.073z" /></svg></span>
+          <span className="facebook-card__name">Facebook</span>
+          <span className="facebook-card__store">C &amp; E Store</span>
+          <span className="facebook-card__cta">Visitar nuestra página <span aria-hidden="true">→</span></span>
+        </a>
+      </Reveal>
       <Reveal className="about-finale">
         <div><p className="about-kicker">Tu siguiente paso empieza aquí</p><h2>Encuentra<br />tu próximo par.</h2></div>
         <div><p>Explora nuestras colecciones y descubre diferentes marcas, estilos y modelos.</p><div className="about-actions"><StoreLink {...linkProps} href="/catalogo/hombre" destination="hombre">Ver Hombre <span aria-hidden="true">→</span></StoreLink><StoreLink {...linkProps} href="/catalogo/mujer" destination="mujer">Ver Mujer <span aria-hidden="true">→</span></StoreLink></div></div>
