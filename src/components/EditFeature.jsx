@@ -24,17 +24,17 @@ export default function EditFeature({ onExplore }) {
         </div>
 
         <div className="edit__copy">
-          <span className="eyebrow">Pieza destacada</span>
+          <span className="eyebrow">Marcas para tu día a día</span>
           <h2 className="edit__title">
             De la marca
             <br />
             <em>que eliges</em>
           </h2>
           <p className="edit__lead">
-            Una de las piezas de nuestra selección actual. Mira sus colores, comprueba
-            tu talla y confírmala por WhatsApp cuando la tengas decidida.
+            Combina tus calzados favoritos con ropa y accesorios de nuestra selección.
+            Descubre las marcas, elige tus colores y dale tu toque a cada conjunto.
           </p>          <button className="btn btn--primary" type="button" onClick={onExplore}>
-            Ver colección
+            Explorar catálogo
             <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="2">
               <path d="M5 12h13M13 6l6 6-6 6" strokeLinecap="round" strokeLinejoin="round" />
             </svg>

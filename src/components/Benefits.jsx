@@ -23,7 +23,7 @@ export const BENEFITS = [
   },
   {
     id: 'devolucion',
-    label: 'Hombre, mujer y accesorios',
+    label: 'Para cada etapa y estilo',
     note: 'Explora las colecciones',
     icon: (
       <>

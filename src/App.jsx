@@ -26,6 +26,7 @@ export default function App() {
   const [search, setSearch] = useState('')
   const [sort, setSort] = useState('destacados')
   const [activeBrand, setActiveBrand] = useState('todos')
+  const [activeType, setActiveType] = useState('todos')
   const [modalId, setModalId] = useState(null)
   const [modalColorIndex, setModalColorIndex] = useState(0)
   const { cart, addLine, changeQty, removeLine } = usePersistentCart(PRODUCT_INDEX)
@@ -38,6 +39,7 @@ export default function App() {
 
   useEffect(() => {
     setActiveBrand('todos')
+    setActiveType('todos')
     setSearch('')
     setSort('destacados')
   }, [category])
@@ -46,7 +48,7 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: 'auto' })
   }, [stage, category])
 
-  const visible = useMemo(() => filterCatalog(collection.products, { brand: activeBrand, search, sort }), [collection, activeBrand, search, sort])
+  const visible = useMemo(() => filterCatalog(collection.products, { brand: activeBrand, type: activeType, search, sort }), [collection, activeBrand, activeType, search, sort])
 
   const modalProduct = useMemo(
     () => PRODUCTS.find((p) => p.id === modalId) || null,
@@ -87,11 +89,16 @@ export default function App() {
   }
 
   const resetFilters = () => {
+    setActiveType('todos')
     setSearch('')
     setActiveBrand('todos')
   }
 
   const goCollection = (id) => {
+    if (id === 'calzados' || id === 'ropa') {
+      setStage(id)
+      return
+    }
     resetFilters()
     setSort('destacados')
     openCollection(id)
@@ -113,7 +120,7 @@ export default function App() {
       })
       return
     }
-    if (target === 'hombre' || target === 'mujer' || target === 'accesorios') {
+    if (CATALOGS[target] || target === 'calzados' || target === 'ropa') {
       goCollection(target)
       return
     }
@@ -179,8 +186,8 @@ export default function App() {
           </>
         )}
 
-        {stage === 'picker' && (
-          <CollectionPicker onPick={goCollection} />
+        {['picker', 'calzados', 'ropa'].includes(stage) && (
+          <CollectionPicker group={stage} onPick={goCollection} onBack={() => setStage('picker')} />
         )}
 
         {stage === 'catalog' && (
@@ -189,11 +196,13 @@ export default function App() {
             resultCount={visible.length}
             sort={sort}
             onSort={setSort}
-            onBack={() => setStage('picker')}
+            onBack={() => setStage(category.startsWith('ropa-') ? 'ropa' : category === 'accesorios' ? 'picker' : 'calzados')}
             onCollection={goCollection}
             search={search}
             onSearch={setSearch}
             activeBrand={activeBrand}
+            activeType={activeType}
+            onType={setActiveType}
             onBrand={setActiveBrand}
             onReset={resetFilters}
             gridProps={gridProps}

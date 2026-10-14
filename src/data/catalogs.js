@@ -1,12 +1,16 @@
-import { menProducts } from './menProducts.js'
-import { womenProducts } from './womenProducts.js'
+import { menProducts, womenProducts, accessoryProducts, clothingProducts } from './inventory.js'
 
-import { accessoryProducts } from './accessoryProducts.js'
+export const BRANDS = [...new Set(['Nike', 'Adidas', 'Puma',
+  ...[...menProducts, ...womenProducts, ...accessoryProducts, ...clothingProducts].map(product => product.brand),
+])]
 
-export const BRANDS = ['Nike', 'Adidas', 'Puma']
+// Preserve the store's brand order, but expose only this collection's inventory.
+export const brandsForCatalog = products => BRANDS.filter(brand => products.some(product => product.brand === brand))
 
 export const CATALOGS = {
-  accesorios: { id: 'accesorios', label: 'Accesorios', description: 'Mochilas y balones para acompañarte cada día.', editorial: 'Completa tu estilo.', products: accessoryProducts },
+  'ropa-hombre': { id: 'ropa-hombre', label: 'Ropa · Hombre', description: 'Casacas, conjuntos, poleras y polos para tu día a día.', editorial: 'Viste a tu manera.', products: clothingProducts.filter(p => p.category === 'ropa-hombre') },
+  'ropa-mujer': { id: 'ropa-mujer', label: 'Ropa · Mujer', description: 'Descubre casacas, conjuntos, pantalones, poleras y tops.', editorial: 'Tu estilo en cada prenda.', products: clothingProducts.filter(p => p.category === 'ropa-mujer') },
+  accesorios: { id: 'accesorios', label: 'Accesorios', description: 'Gorros, mochilas, bolsos y balones para acompañarte cada día.', editorial: 'Completa tu estilo.', products: accessoryProducts },
   hombre: {
     id: 'hombre',
     label: 'Hombre',
@@ -43,10 +47,11 @@ const SORTS = {
 }
 
 /** Receives a single collection; never expands to the combined inventory. */
-export function filterCatalog(products, { brand = 'todos', search = '', sort = 'destacados' }) {
+export function filterCatalog(products, { brand = 'todos', type = 'todos', search = '', sort = 'destacados' }) {
   const query = normalize(search)
   return products.filter((product) =>
     (brand === 'todos' || product.brand === brand) &&
-    (!query || normalize(`${product.name} ${product.brand}`).includes(query))
+    (type === 'todos' || normalize(product.type || '') === normalize(type)) &&
+    (!query || normalize(`${product.name} ${product.brand} ${product.type || ''} ${(product.colors || []).map(color => `${color.name} ${color.sku || ''}`).join(' ')}`).includes(query))
   ).sort(SORTS[sort] ?? SORTS.destacados)
 }

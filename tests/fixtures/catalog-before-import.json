@@ -1,0 +1,1333 @@
+{
+  "products": [
+    {
+      "id": "h-adidas-adifom-adilette",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "ADIFOM ADILETTE",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Blanco.png"
+        },
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Negro.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-adizero-boston-11",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Adizero Boston 11",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Adidas/Adizero Boston 11/Negro.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-chimpunes-copa-pure-3-league",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Chimpunes Copa Pure 3 League",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Blanco y rojo",
+          "base": "#f5f5f5",
+          "accent": "#c93843",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg"
+        },
+        {
+          "name": "Blanco y rosa",
+          "base": "#f5f5f5",
+          "accent": "#e4a0bb",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rosa.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-courtblock",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Courtblock",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Courtblock/Blanco.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-crazyfast-1-cesped-sintetico",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Crazyfast.1 césped sintético",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Verde limon y blanco",
+          "base": "#badb40",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#badb40",
+          "swatch": "#badb40",
+          "photo": "images/Catalogo/hombres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-dame-certified-extply-2-0",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Dame Certified EXTPLY 2.0",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco y morado",
+          "base": "#f5f5f5",
+          "accent": "#8753aa",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Dame Certified EXTPLY 2.0/Blanco_y_morado.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-duramo-rc",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Duramo RC",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Verde",
+          "base": "#42875b",
+          "accent": "#42875b",
+          "sole": "#f5f5f5",
+          "laces": "#42875b",
+          "swatch": "#42875b",
+          "photo": "images/Catalogo/hombres/Adidas/Duramo RC/Verde.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-f50-messi-club",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "F50 Messi Club",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Azul y amarillo",
+          "base": "#3265a0",
+          "accent": "#ebcd43",
+          "sole": "#f5f5f5",
+          "laces": "#3265a0",
+          "swatch": "#3265a0",
+          "photo": "images/Catalogo/hombres/Adidas/F50 Messi Club/Azul_y_amarillo.jpeg"
+        },
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/F50 Messi Club/Blanco.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-forum-low-cl",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Forum Low CL",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco y azul",
+          "base": "#f5f5f5",
+          "accent": "#3265a0",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_azul.jpeg"
+        },
+        {
+          "name": "Blanco y negro",
+          "base": "#f5f5f5",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_negro.jpeg"
+        },
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-gazelle-crepe-clot",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Gazelle Crepe CLOT",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Azul marino",
+          "base": "#20334c",
+          "accent": "#20334c",
+          "sole": "#f5f5f5",
+          "laces": "#20334c",
+          "swatch": "#20334c",
+          "photo": "images/Catalogo/hombres/Adidas/Gazelle Crepe CLOT/Azul_marino.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-heawyn",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "HEAWYN",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Azul marino",
+          "base": "#20334c",
+          "accent": "#20334c",
+          "sole": "#f5f5f5",
+          "laces": "#20334c",
+          "swatch": "#20334c",
+          "photo": "images/Catalogo/hombres/Adidas/HEAWYN/Azul_marino.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-jeremy-scott-monogram-adilette-wings",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Jeremy Scott Monogram Adilette Wings",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-lite-racer-2-0",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Lite Racer 2.0",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Negro y blanco",
+          "base": "#191919",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Adidas/Lite Racer 2.0/Negro_y_blanco.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-ozweego",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Ozweego",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Azul",
+          "base": "#3265a0",
+          "accent": "#3265a0",
+          "sole": "#f5f5f5",
+          "laces": "#3265a0",
+          "swatch": "#3265a0",
+          "photo": "images/Catalogo/hombres/Adidas/Ozweego/Azul.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-pureboost",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Pureboost",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Gris",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/Pureboost/Gris.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-questar-drive-training",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Questar Drive Training",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Gris y amarillo",
+          "base": "#92969b",
+          "accent": "#ebcd43",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_amarillo.jpg"
+        },
+        {
+          "name": "Gris y negro",
+          "base": "#92969b",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_negro.jpg"
+        },
+        {
+          "name": "Gris",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-running-runfalcon-5",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Running Runfalcon 5",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Azul oscuro y blanco",
+          "base": "#20334c",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#20334c",
+          "swatch": "#20334c",
+          "photo": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Azul_oscuro_y_blanco.jpeg"
+        },
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Blanco.jpeg"
+        },
+        {
+          "name": "Negro y blanco",
+          "base": "#191919",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Negro_y_blanco.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-solar-control-men-s-running",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "Solar Control Men's Running",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Gris",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/Solar Control Men's Running/Gris.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-adidas-znchill-lightmotion",
+      "category": "hombre",
+      "brand": "Adidas",
+      "name": "ZNCHILL LIGHTMOTION+",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Gris",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Adidas/ZNCHILL LIGHTMOTION+/Gris.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-air-max-systm",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Air Max SYSTM",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Nike/Air Max SYSTM/Negro.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-jordan-super-play-slide",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Jordan Super Play Slide",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Jordan Super Play Slide/Blanco.jpeg"
+        },
+        {
+          "name": "Morado",
+          "base": "#8753aa",
+          "accent": "#8753aa",
+          "sole": "#f5f5f5",
+          "laces": "#8753aa",
+          "swatch": "#8753aa",
+          "photo": "images/Catalogo/hombres/Nike/Jordan Super Play Slide/Morado.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-legend-essential-3-next-nature",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Legend Essential 3 Next Nature",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Gris",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/hombres/Nike/Legend Essential 3 Next Nature/Gris.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-mercurial-superfly-9",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Mercurial Superfly 9",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Beige y negro",
+          "base": "#d4c4a8",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#d4c4a8",
+          "swatch": "#d4c4a8",
+          "photo": "images/Catalogo/hombres/Nike/Mercurial Superfly 9/beige_y_negro.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-mercurial-vapor-15-club",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Mercurial Vapor 15 Club",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Mercurial Vapor 15 Club/Blanco.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-nike-air-max-bolt",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Nike Air Max Bolt",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco y negro",
+          "base": "#f5f5f5",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-nike-blazer-low-pro-club",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Nike Blazer Low Pro Club",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Verde Vintage",
+          "base": "#728878",
+          "accent": "#728878",
+          "sole": "#f5f5f5",
+          "laces": "#728878",
+          "swatch": "#728878",
+          "photo": "images/Catalogo/hombres/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-nike-flex-control-4",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Nike Flex Control 4",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Nike Flex Control 4/Blanco.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-phantom-gx-2-club",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Phantom GX 2 Club",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Celeste",
+          "base": "#93cce5",
+          "accent": "#93cce5",
+          "sole": "#f5f5f5",
+          "laces": "#93cce5",
+          "swatch": "#93cce5",
+          "photo": "images/Catalogo/hombres/Nike/Phantom GX 2 Club/Celeste.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-nike-terra-manta",
+      "category": "hombre",
+      "brand": "Nike",
+      "name": "Terra Manta",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Blanco y azul",
+          "base": "#f5f5f5",
+          "accent": "#3265a0",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_azul.png"
+        },
+        {
+          "name": "Blanco y marron",
+          "base": "#f5f5f5",
+          "accent": "#956743",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_marron.png"
+        },
+        {
+          "name": "Blanco y negro",
+          "base": "#f5f5f5",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_negro.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "h-puma-ferrari-gigante-mid-leather-sf-10",
+      "category": "hombre",
+      "brand": "Puma",
+      "name": "Ferrari Gigante Mid Leather SF 10",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/hombres/Puma/Ferrari Gigante Mid Leather SF 10/Negro.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ]
+    },
+    {
+      "id": "m-adidas-adifom-adilette",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "ADIFOM ADILETTE",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/mujeres/Adidas/ADIFOM ADILETTE/Blanco.png"
+        },
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/mujeres/Adidas/ADIFOM ADILETTE/Negro.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-adidas-adilette-comfort",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "Adilette Comfort",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Amarillo y morado",
+          "base": "#ebcd43",
+          "accent": "#8753aa",
+          "sole": "#f5f5f5",
+          "laces": "#ebcd43",
+          "swatch": "#ebcd43",
+          "photo": "images/Catalogo/mujeres/Adidas/Adilette Comfort/Amarillo_y_morado.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-adidas-adilette",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "Adilette",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Marron y rosa",
+          "base": "#956743",
+          "accent": "#e4a0bb",
+          "sole": "#f5f5f5",
+          "laces": "#956743",
+          "swatch": "#956743",
+          "photo": "images/Catalogo/mujeres/Adidas/Adilette/Marron_y_rosa.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-adidas-crazyfast-1-cesped-sintetico",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "Crazyfast.1 césped sintético",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Verde limon y blanco",
+          "base": "#badb40",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#badb40",
+          "swatch": "#badb40",
+          "photo": "images/Catalogo/mujeres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-adidas-duramo-rc",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "Duramo RC",
+      "type": "Zapatillas",
+      "colors": [
+        {
+          "name": "Verde",
+          "base": "#42875b",
+          "accent": "#42875b",
+          "sole": "#f5f5f5",
+          "laces": "#42875b",
+          "swatch": "#42875b",
+          "photo": "images/Catalogo/mujeres/Adidas/Duramo RC/Verde.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-adidas-jeremy-scott-monogram-adilette-wings",
+      "category": "mujer",
+      "brand": "Adidas",
+      "name": "Jeremy Scott Monogram Adilette Wings",
+      "type": "Sandalias",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/mujeres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "m-nike-phantom-gx-2-club",
+      "category": "mujer",
+      "brand": "Nike",
+      "name": "Phantom GX 2 Club",
+      "type": "F?tbol",
+      "colors": [
+        {
+          "name": "Celeste",
+          "base": "#93cce5",
+          "accent": "#93cce5",
+          "sole": "#f5f5f5",
+          "laces": "#93cce5",
+          "swatch": "#93cce5",
+          "photo": "images/Catalogo/mujeres/Nike/Phantom GX 2 Club/celeste.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ]
+    },
+    {
+      "id": "a-adidas-balon-de-futbol-uefa-champions-league-pro-sala",
+      "category": "accesorios",
+      "brand": "Adidas",
+      "name": "Balón de Fútbol UEFA Champions League Pro Sala",
+      "type": "Balones",
+      "colors": [
+        {
+          "name": "Blanco",
+          "base": "#f5f5f5",
+          "accent": "#f5f5f5",
+          "sole": "#f5f5f5",
+          "laces": "#f5f5f5",
+          "swatch": "#f5f5f5",
+          "photo": "images/Catalogo/Accesorios/Balones/Adidas/Balón de Fútbol UEFA Champions League Pro Sala/Blanco.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    },
+    {
+      "id": "a-adidas-ucl-real-madrid-club",
+      "category": "accesorios",
+      "brand": "Adidas",
+      "name": "UCL Real Madrid Club",
+      "type": "Balones",
+      "colors": [
+        {
+          "name": "Verde limon",
+          "base": "#badb40",
+          "accent": "#badb40",
+          "sole": "#f5f5f5",
+          "laces": "#badb40",
+          "swatch": "#badb40",
+          "photo": "images/Catalogo/Accesorios/Balones/Adidas/UCL Real Madrid Club/Verde_limon.jpeg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    },
+    {
+      "id": "a-adidas-camo-classic-backpack",
+      "category": "accesorios",
+      "brand": "Adidas",
+      "name": "Camo Classic Backpack",
+      "type": "Mochilas",
+      "colors": [
+        {
+          "name": "Azul",
+          "base": "#3265a0",
+          "accent": "#3265a0",
+          "sole": "#f5f5f5",
+          "laces": "#3265a0",
+          "swatch": "#3265a0",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Adidas/Camo Classic Backpack/Azul.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    },
+    {
+      "id": "a-adidas-clsc-bars-bp",
+      "category": "accesorios",
+      "brand": "Adidas",
+      "name": "CLSC BARS BP",
+      "type": "Mochilas",
+      "colors": [
+        {
+          "name": "Azul",
+          "base": "#3265a0",
+          "accent": "#3265a0",
+          "sole": "#f5f5f5",
+          "laces": "#3265a0",
+          "swatch": "#3265a0",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Azul.png"
+        },
+        {
+          "name": "Rosa",
+          "base": "#e4a0bb",
+          "accent": "#e4a0bb",
+          "sole": "#f5f5f5",
+          "laces": "#e4a0bb",
+          "swatch": "#e4a0bb",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Rosa.png"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    },
+    {
+      "id": "a-nike-elemental-backpack",
+      "category": "accesorios",
+      "brand": "Nike",
+      "name": "Elemental Backpack",
+      "type": "Mochilas",
+      "colors": [
+        {
+          "name": "Fuccia",
+          "base": "#dc3492",
+          "accent": "#dc3492",
+          "sole": "#f5f5f5",
+          "laces": "#dc3492",
+          "swatch": "#dc3492",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Fuccia.jpg"
+        },
+        {
+          "name": "Negro",
+          "base": "#191919",
+          "accent": "#191919",
+          "sole": "#f5f5f5",
+          "laces": "#191919",
+          "swatch": "#191919",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Negro.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    },
+    {
+      "id": "a-puma-phase-aop-backpack",
+      "category": "accesorios",
+      "brand": "Puma",
+      "name": "PHASE AOP BACKPACK",
+      "type": "Mochilas",
+      "colors": [
+        {
+          "name": "Borgoña",
+          "base": "#92969b",
+          "accent": "#92969b",
+          "sole": "#f5f5f5",
+          "laces": "#92969b",
+          "swatch": "#92969b",
+          "photo": "images/Catalogo/Accesorios/Mochilas/Puma/PHASE AOP BACKPACK/Borgoña.jpg"
+        }
+      ],
+      "price": 0,
+      "sizes": [
+        "Única"
+      ]
+    }
+  ],
+  "images": {
+    "accesorios.png": "94f21e4dba35f680ddef3f25ccca068ea7a70fde55922cd51542b31d3428e2ce",
+    "hombre.png": "ad21fc16f6e34be94453c528466b58c46f786c0b2fd17502ddc376dde0f0637a",
+    "mujer.png": "deadbc8fbe823c55b467e5068d6ebe56353c35e981aed75e3ebeee75a03e8155",
+    "mujeres/Nike/Phantom GX 2 Club/celeste.png": "89f22b24468a53cb3a6a7647d0462e51d94754acff73c6fc624ae3bc8926ce30",
+    "mujeres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png": "929987bac6d98f304dff91e121a2981016fc4f128142ad6112ae9d3fbfba52ef",
+    "mujeres/Adidas/Duramo RC/Verde.png": "8cf8f215ea4fe94beb8a0b006ceb5fde4c39fcbed57597a0c3c4a8aac233264f",
+    "mujeres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg": "d35d531c8a7da9aae0cb21e8dd8b538dd3362671c25139427f00d67829399ca0",
+    "mujeres/Adidas/Adilette Comfort/Amarillo_y_morado.png": "05ad41ba428c5aab554491e5b56be291c6b39dbbdd80563f25238326f4dd16a4",
+    "mujeres/Adidas/Adilette/Marron_y_rosa.jpg": "ce9189685ef17edc21c429a395e5657d08b71e109ab95f722f60506143d3199b",
+    "mujeres/Adidas/ADIFOM ADILETTE/Blanco.png": "61441cd7aef5be9a1b67a3dce4bd90289c6bcde67edfc7bbf6f2b83ec99fdaaa",
+    "mujeres/Adidas/ADIFOM ADILETTE/Negro.jpg": "cf5203f18c55daba4653c530748a0d18b6e116bd045509797a7ed78638e3a043",
+    "hombres/Puma/Ferrari Gigante Mid Leather SF 10/Negro.jpeg": "b39091f8e21e60538f9ef1d1b01c2f20a1b6e216ae3e2b67a0788109d009c4c1",
+    "hombres/Nike/Terra Manta/Blanco_y_azul.png": "b66f985818994f613f83ca5af9d749d6159d2c0536bb2a0581e9187a8a9f34a8",
+    "hombres/Nike/Terra Manta/Blanco_y_marron.png": "bdbc50367a4c44d515adee36f2c878e1a6f4ea67b7da634fa888204d0c5d0730",
+    "hombres/Nike/Terra Manta/Blanco_y_negro.png": "f979cad3166fe4609b4134de9fbeba9292caa2527e835c65625c40d6a6d3549e",
+    "hombres/Nike/Phantom GX 2 Club/Celeste.png": "89f22b24468a53cb3a6a7647d0462e51d94754acff73c6fc624ae3bc8926ce30",
+    "hombres/Nike/Nike Flex Control 4/Blanco.jpeg": "fb090984e1161f9536e10836520daf1e1c9fbe8f37290128e9097daab81f9859",
+    "hombres/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg": "918920ceb345e0b58bffd411bb59435a8c93c232a118d2b65f44f9e90a1519ab",
+    "hombres/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg": "0e275f2de73cddc4f2d6c86f1968aef3cee10f70658d5347b6aeecf824cb8591",
+    "hombres/Nike/Mercurial Vapor 15 Club/Blanco.png": "279193893f04f94b0f4dd766d62e4338832df5e792e5fa914d018725c121c5ce",
+    "hombres/Nike/Mercurial Superfly 9/beige_y_negro.png": "02c83ed37504b929f6838b823db3b72def32f71778db840cacc387fb854ed3d6",
+    "hombres/Nike/Legend Essential 3 Next Nature/Gris.jpeg": "50ff4648fbd60971d46b53af6d373788acbf609d0f430a4ec0b80b65ac38881d",
+    "hombres/Nike/Jordan Super Play Slide/Blanco.jpeg": "1fa2096d6b9655ea697d2556c686108c924a099e5db5c2d8e167e928e28fafdb",
+    "hombres/Nike/Jordan Super Play Slide/Morado.jpeg": "0e27ef71c719cf10da8e5c34465f0934c1b7f5c1aa077ac1861e356fb67fb6d9",
+    "hombres/Nike/Air Max SYSTM/Negro.jpeg": "92a7ef74b377592f48da774188cce86c5dd165a372b45cd32f191b68c67af551",
+    "hombres/Adidas/ZNCHILL LIGHTMOTION+/Gris.jpeg": "1a1fe89e8c0682d1e26155c73d791c27516f130c05a8602d8c1b3810ff3c1840",
+    "hombres/Adidas/Solar Control Men's Running/Gris.png": "448be26c06b06ffd9c1e157c66d49e18353b6288b7c3407552be54498192aac5",
+    "hombres/Adidas/Running Runfalcon 5/Azul_oscuro_y_blanco.jpeg": "3cf156d19355734f937ff07b5849c43ba4dc6040cf1745fba709544526ef0c3e",
+    "hombres/Adidas/Running Runfalcon 5/Blanco.jpeg": "9de2155fb059fe3333b4493285c19f841035918dc38fe9d0df713a0137bcf014",
+    "hombres/Adidas/Running Runfalcon 5/Negro_y_blanco.jpeg": "f6fd9db19a384ce43b57d6e1ecbcb2f2e5cf76636ce691f0011dc519cb760ff9",
+    "hombres/Adidas/Questar Drive Training/Gris.jpg": "ec2c2289228466f33044d2282076589ae5bea51d6fe54ea663246fd7afd63b19",
+    "hombres/Adidas/Questar Drive Training/Gris_y_amarillo.jpg": "8fedc3dea6f5b9770041ccd7409e9ce3273b9e8d2b6d569a1232790c53d1125c",
+    "hombres/Adidas/Questar Drive Training/Gris_y_negro.jpg": "81f195a25a70e8a0b99bb210ce3fbece4f9c37da4614a651621c5925eba8b546",
+    "hombres/Adidas/Pureboost/Gris.png": "1c8c1fed46d9dda47ad6671676a57191a4b308138a6f04d2f666958f4a7cf78a",
+    "hombres/Adidas/Ozweego/Azul.jpeg": "6c25e454f4035b0867f43cfba86ef5710f5d56be29769b5b8c16681a318cd3a0",
+    "hombres/Adidas/Lite Racer 2.0/Negro_y_blanco.jpg": "4bb9c6af60263486c995b752c65042857486fbb7ff8015480e03b9a93c9a3e98",
+    "hombres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png": "929987bac6d98f304dff91e121a2981016fc4f128142ad6112ae9d3fbfba52ef",
+    "hombres/Adidas/HEAWYN/Azul_marino.jpg": "ae626810d1ae02bb17cba91222429e43a88a8fa3900d69987b5a9861d9676cb2",
+    "hombres/Adidas/Gazelle Crepe CLOT/Azul_marino.png": "910aaa9db63323c1a41d5e81d68c14189909495344e6a2e05d9fb62a153c87dc",
+    "hombres/Adidas/Forum Low CL/Blanco.jpeg": "ccdd24a8ffd0dda2cf8fc321727ea99ab694bb51fd267939bdf22472cee31511",
+    "hombres/Adidas/Forum Low CL/Blanco_y_azul.jpeg": "1d03dfcdd2267000a6dc6813bae6a8c5947c2b661b54f72b24a6be8e666c30a4",
+    "hombres/Adidas/Forum Low CL/Blanco_y_negro.jpeg": "e34dcf76702e70bcbe5ca8bdbe8206e06f7f6d154d8398fdf8de939a382b3ba7",
+    "hombres/Adidas/F50 Messi Club/Azul_y_amarillo.jpeg": "b8e09e40f63aa9a5236453caf1b933f533bdc12e85fb6b62378747ed011345ad",
+    "hombres/Adidas/F50 Messi Club/Blanco.jpeg": "7833738868772edf8dadb152b161683707e10d716e4aa8def01526b2b919c907",
+    "hombres/Adidas/Duramo RC/Verde.png": "8cf8f215ea4fe94beb8a0b006ceb5fde4c39fcbed57597a0c3c4a8aac233264f",
+    "hombres/Adidas/Dame Certified EXTPLY 2.0/Blanco_y_morado.png": "81aac2d1c725adf121925f66cf00ad91ca221b6e6b3646ba7c7c9118ae0d017b",
+    "hombres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg": "d35d531c8a7da9aae0cb21e8dd8b538dd3362671c25139427f00d67829399ca0",
+    "hombres/Adidas/Courtblock/Blanco.png": "7f3147210f94ff535f97a51d04c5b7cefb2a98f519e554b20d70e737f0a9d4eb",
+    "hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg": "de536a69f994eb74ea44aa3a5443cacfa0686d50391b7d265bc4dbba0c9aac52",
+    "hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rosa.jpeg": "1afb86de894e40319d23e2e50db40eaccf495c3bcec7d6afd5bd8189636cc68f",
+    "hombres/Adidas/Adizero Boston 11/Negro.png": "f02b8033774d9ea756ceb8c5b94b3fa790854641648c787e6d0e744de10f39d6",
+    "hombres/Adidas/ADIFOM ADILETTE/Blanco.png": "61441cd7aef5be9a1b67a3dce4bd90289c6bcde67edfc7bbf6f2b83ec99fdaaa",
+    "hombres/Adidas/ADIFOM ADILETTE/Negro.jpg": "cf5203f18c55daba4653c530748a0d18b6e116bd045509797a7ed78638e3a043",
+    "Accesorios/Mochilas/Puma/PHASE AOP BACKPACK/Borgoña.jpg": "f4dc4afdcf01441151090c9429f332b6d927e4c7e65378e501a208d8441ce6a9",
+    "Accesorios/Mochilas/Nike/Elemental Backpack/Fuccia.jpg": "9d9223b6f3bd45ada7b37a56a0377e5fc2b960167f1f608ec45a1a9d1aea60ab",
+    "Accesorios/Mochilas/Nike/Elemental Backpack/Negro.jpg": "46812f97593c914a670afb42762ad84a72774b965118a67ba64a950e72d21f03",
+    "Accesorios/Mochilas/Adidas/CLSC BARS BP/Azul.png": "df9984d41f3dd2e248996bd97544c1526a69081ede22ca2a33e1ccfccdd66e95",
+    "Accesorios/Mochilas/Adidas/CLSC BARS BP/Rosa.png": "78d0955fa227b8e1009478398a170ad26af2c4bd0083ef8063bd1e6568313c71",
+    "Accesorios/Mochilas/Adidas/Camo Classic Backpack/Azul.png": "a87098b86445e5e798f7e1e05bf1a59686c0c3398b634be11fd91f6e95a469e3",
+    "Accesorios/Balones/Adidas/UCL Real Madrid Club/Verde_limon.jpeg": "45f543a90e050bbb97adf2553b9945c43d621b87a6c440614bc8b9558bab7a3a",
+    "Accesorios/Balones/Adidas/Balón de Fútbol UEFA Champions League Pro Sala/Blanco.jpeg": "54ddb4f60d01301cd18b55494ae941ebfa314330c8fc29a190bb90908b1c6e75"
+  }
+}

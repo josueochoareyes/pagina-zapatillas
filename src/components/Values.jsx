@@ -14,13 +14,13 @@ const PILLARS = [
   {
     n: '02',
     title: ['Para cada', 'estilo'],
-    text: 'Zapatillas para hombre y mujer, y accesorios para completar tu estilo.',
-    meta: 'Hombre · Mujer · Accesorios',
+    text: 'Calzados, ropa y accesorios para combinar a tu manera.',
+    meta: 'Calzados · Ropa · Accesorios',
   },
   {
     n: '03',
     title: ['Compra', 'fácil'],
-    text: 'Elige tu modelo y color, y confirma los detalles de tu pedido por WhatsApp.',
+    text: 'Guarda tus favoritos, añade productos al carrito y confirma tu pedido por WhatsApp.',
     meta: 'Carrito · WhatsApp',
   },
 ]

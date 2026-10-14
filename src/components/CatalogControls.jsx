@@ -1,5 +1,5 @@
 import { useEffect, useId, useRef, useState } from 'react'
-import { BRANDS, SORT_OPTIONS } from '../data/catalogs'
+import { SORT_OPTIONS } from '../data/catalogs'
 
 const CHART = <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="1.6" aria-hidden="true"><path d="m6 9 6 6 6-6" strokeLinecap="round" strokeLinejoin="round" /></svg>
 
@@ -81,14 +81,14 @@ function SortSelect({ sort, onSort }) {
  * el dataset y los productos los resuelve el contenedor, asi que
  * hombre y mujer nunca comparten productos ni filtros.
  */
-export default function CatalogControls({ activeBrand, onBrand, search, onSearch, sort, onSort, resultCount, totalCount, isFiltered, onReset }) {
+export default function CatalogControls({ brands = [], activeBrand, onBrand, search, onSearch, sort, onSort, resultCount, totalCount, isFiltered, onReset }) {
   return (
     <div className="ccontrols">
       <div className="ccontrols__head">
         <div className="ccontrols__brands">
           <span className="ccontrols__eyebrow" id="ccontrols-marca">Marca</span>
           <div className="crail" role="group" aria-labelledby="ccontrols-marca">
-            {['todos', ...BRANDS].map((brand) => (
+            {['todos', ...brands].map((brand) => (
               <button
                 type="button"
                 key={brand}

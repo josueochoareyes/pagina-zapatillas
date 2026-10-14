@@ -9,9 +9,9 @@ const WA_ICON = (
 
 const COLLECTIONS = [
   ['Catálogo', '/catalogo', 'catalogo'],
-  ['Hombre',   '/catalogo/hombre', 'hombre'],
-  ['Mujer',    '/catalogo/mujer',  'mujer'],
+  ['Calzados', '/catalogo/calzados', 'calzados'],
   ['Accesorios', '/catalogo/accesorios', 'accesorios'],
+  ['Ropa', '/catalogo/ropa', 'ropa'],
 ]
 
 const STORE_LINKS = [
@@ -35,7 +35,7 @@ export default function Footer({ onNavigate }) {
               <br />
               <em>El estilo que buscas.</em>
             </p>
-            <p className="footer__sub">Tienda multimarca de zapatillas y accesorios.</p>
+            <p className="footer__sub">Tienda multimarca de calzados, ropa y accesorios.</p>
 
             {/* CTA WhatsApp */}
             <a
@@ -107,7 +107,7 @@ export default function Footer({ onNavigate }) {
             © {new Date().getFullYear()} C&amp;E Store · Todos los derechos reservados.
           </p>
           <p className="footer__claim">
-            Zapatillas. Accesorios. <em>Tu estilo.</em>
+            Calzados. Ropa. Accesorios. <em>Tu estilo.</em>
           </p>
         </div>
       </div>

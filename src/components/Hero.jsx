@@ -12,9 +12,9 @@ import { BRANDS } from '../data/catalogs'
  * sin valoraciones, ventas ni plazos de envío inventados.
  */
 const STATS = [
-  [String(PRODUCTS.length), 'Modelos', 'disponibles'],
+  [String(PRODUCTS.length), 'Modelos', 'en el catálogo'],
   [String(BRANDS.length), 'Marcas', 'en la tienda'],
-  ['3', 'Colecciones', 'para elegir'],
+  ['3', 'Categorías', 'para explorar'],
 ]
 
 export default function Hero({ onExplore }) {
@@ -38,19 +38,19 @@ export default function Hero({ onExplore }) {
 
           <h1 className="hero__title">
             <span className={`tline reveal ${on ? 'is-in' : ''}`} style={{ '--d': '70ms' }}>
-              Zapatillas
+              Tu estilo
             </span>
             <span className={`tline reveal ${on ? 'is-in' : ''}`} style={{ '--d': '140ms' }}>
-              que <em>declaran</em>
+              en cada
             </span>
             <span className={`tline reveal ${on ? 'is-in' : ''}`} style={{ '--d': '210ms' }}>
-              tu estilo
+              <em>detalle</em>
             </span>
           </h1>
 
           <p className={`hero__lead reveal ${on ? 'is-in' : ''}`} style={{ '--d': '300ms' }}>
-            Una tienda multimarca con colecciones de <strong>hombre</strong>, <strong>mujer</strong> y <strong>accesorios</strong>.
-            Elige tu modelo, tu talla y tu color, y confírmalo con nosotros.
+            Descubre <strong>calzados</strong>, <strong>ropa</strong> y <strong>accesorios</strong> para tu día a día.
+            Explora las colecciones de hombre y mujer, encuentra tus favoritos y consulta tu pedido por WhatsApp.
           </p>
 
           <div className={`hero__cta reveal ${on ? 'is-in' : ''}`} style={{ '--d': '370ms' }}>
@@ -98,7 +98,7 @@ export default function Hero({ onExplore }) {
               {shown.photo ? (
                 <ProductImage
                   src={shown.photo} 
-                  alt="C & E Store ? tienda multimarca"
+                  alt="C & E Store, tienda multimarca de calzados, ropa y accesorios"
                   className="hero__sneaker-photo"
                   loading="eager"
                 />

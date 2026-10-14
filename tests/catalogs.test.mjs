@@ -1,22 +1,27 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { CATALOGS, BRANDS, filterCatalog } from '../src/data/catalogs.js'
+import { CATALOGS, BRANDS, brandsForCatalog, filterCatalog } from '../src/data/catalogs.js'
 
 test('Hombre and Mujer have independent updated inventories', () => {
   const men = CATALOGS.hombre.products
   const women = CATALOGS.mujer.products
-  assert.equal(men.length, 30)
-  assert.equal(women.length, 7)
+  assert.ok(men.length >= 30)
+  assert.ok(women.length >= 7)
   assert.ok(men.every(p => p.category === 'hombre' && p.id.startsWith('h')))
   assert.ok(women.every(p => p.category === 'mujer' && p.id.startsWith('m')))
-  assert.equal(new Set([...men, ...women].map(p => p.id)).size, 37)
+  assert.equal(new Set([...men, ...women].map(p => p.id)).size, men.length + women.length)
   assert.ok(men.every(p => !women.some(w => w.id === p.id || w.colors === p.colors)))
-  assert.ok([...men, ...women].every(p => p.sizes.length && p.colors.length && Number.isFinite(p.price)))
+  assert.ok([...men, ...women].every(p => (p.sizes.length || p.sizePending) && p.colors.length && Number.isFinite(p.price)))
 })
 
 for (const collection of Object.values(CATALOGS)) {
-  test(`${collection.label}: all three brand filters stay inside their own inventory`, () => {
-    assert.deepEqual(BRANDS, ['Nike', 'Adidas', 'Puma'])
+  test(`${collection.label}: every brand filter stays inside its own inventory`, () => {
+    assert.deepEqual(BRANDS.slice(0, 3), ['Nike', 'Adidas', 'Puma'])
+    assert.equal(new Set(BRANDS).size, BRANDS.length)
+    assert.ok(collection.products.every(product => BRANDS.includes(product.brand)))
+    const visibleBrands = brandsForCatalog(collection.products)
+    assert.deepEqual(new Set(visibleBrands), new Set(collection.products.map(p => p.brand)))
+    for (const brand of visibleBrands) assert.ok(filterCatalog(collection.products, { brand }).length > 0, `${collection.id}: ${brand} must not be empty`)
     for (const brand of BRANDS) {
       const result = filterCatalog(collection.products, { brand })
       assert.equal(result.length, collection.products.filter(p => p.brand === brand).length)

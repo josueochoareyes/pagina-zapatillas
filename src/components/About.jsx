@@ -24,14 +24,14 @@ export default function About({ onNavigate }) {
         <p className="about-kicker">Sobre C &amp; E Store <span>Una tienda. Diferentes estilos.</span></p>
         <h1>Las marcas que conoces.<br /><em>El estilo que buscas.</em></h1>
         <div className="about-intro__bottom">
-          <p>C &amp; E Store es una tienda multimarca donde reunimos zapatillas para hombre y mujer, mochilas y balones de marcas reconocidas para que encuentres lo que mejor encaje con tu estilo.</p>
+          <p>En C &amp; E Store reunimos calzados, ropa y accesorios de diferentes marcas para acompañarte en tu día a día. Explora nuestras colecciones de hombre y mujer y encuentra combinaciones que vayan contigo.</p>
           <div className="about-actions">
             <StoreLink {...linkProps} href="/catalogo" destination="catalogo">Explorar catálogo <span aria-hidden="true">↗</span></StoreLink>
             <a className="about-text-link" href="#marcas">Conocer las marcas <span aria-hidden="true">↓</span></a>
           </div>
         </div>
         <div className="about-photo-story">
-          <figure><img src={menPhoto} alt="Zapatilla Nike roja sobre un fondo rojo" width="1000" height="667" fetchPriority="high" /><figcaption><span>01 / Actitud deportiva</span><span>Muévete a tu manera</span></figcaption></figure>
+          <figure><img src={menPhoto} alt="Zapatilla Nike roja sobre un fondo rojo" width="1000" height="667" fetchpriority="high" /><figcaption><span>01 / Actitud deportiva</span><span>Muévete a tu manera</span></figcaption></figure>
           <figure><img src={womenPhoto} alt="Zapatilla Nike en tonos tierra sobre una tela mostaza" width="1000" height="714" /><figcaption><span>02 / Estilo de diario</span><span>Encuentra el tuyo</span></figcaption></figure>
         </div>
       </Reveal>
@@ -40,8 +40,8 @@ export default function About({ onNavigate }) {
         <BrandMarquee brands={BRANDS} />
       </Reveal>
       <Reveal className="about-selection">
-        <div className="about-selection__intro"><span className="about-section-number" aria-hidden="true">01 /</span><h2>Una selección<br />para cada estilo.</h2><div><p>No todos buscan lo mismo. Por eso reunimos modelos de diferentes marcas, estilos y siluetas para que puedas encontrar zapatillas y accesorios que realmente vayan contigo.</p><ul className="about-style-tags" aria-label="Estilos para descubrir">{['Urbano', 'Deportivo', 'Casual', 'Clásico', 'De diario'].map(style => <li key={style}>{style}</li>)}</ul></div></div>
-        <dl className="about-facts"><div><dt>{BRANDS.length} marcas</dt><dd>Una selección multimarca.</dd></div><div><dt>Hombre + Mujer + Accesorios</dt><dd>Tres colecciones para explorar a tu manera.</dd></div><div><dt>Diferentes propuestas</dt><dd>Más opciones para encontrar tu estilo.</dd></div></dl>
+        <div className="about-selection__intro"><span className="about-section-number" aria-hidden="true">01 /</span><h2>Una selección<br />para cada estilo.</h2><div><p>Cada persona tiene su forma de vestir. Por eso reunimos calzados, prendas y accesorios de diferentes marcas y estilos: desde un conjunto deportivo hasta los detalles que completan tu look de diario.</p><ul className="about-style-tags" aria-label="Estilos para descubrir">{['Urbano', 'Deportivo', 'Casual', 'Clásico', 'De diario'].map(style => <li key={style}>{style}</li>)}</ul></div></div>
+        <dl className="about-facts"><div><dt>{BRANDS.length} marcas</dt><dd>Una selección multimarca.</dd></div><div><dt>Calzados, ropa y accesorios</dt><dd>Tres categorías para combinar a tu manera.</dd></div><div><dt>Diferentes propuestas</dt><dd>Más opciones para encontrar tu estilo.</dd></div></dl>
       </Reveal>
       <Reveal className="about-pillars">
         <div><p className="about-kicker">Nuestra forma de seleccionar</p><h2>Lo que buscamos<br />en cada selección.</h2></div>
@@ -50,8 +50,8 @@ export default function About({ onNavigate }) {
       <Reveal className="about-culture">
         <span className="about-culture__backdrop" aria-hidden="true">Estilo</span>
         <p className="about-kicker">Lo que llevas también habla de ti</p>
-        <h2>Más que zapatillas.<br /><em>Forma parte<br />de tu estilo.</em></h2>
-        <div className="about-culture__copy"><p>Las zapatillas dejaron de ser solamente calzado. Hoy forman parte de la música, el deporte, la moda urbana y la manera en la que cada persona expresa su estilo.</p><p>En C &amp; E Store reunimos diferentes propuestas para que encuentres la que encaje contigo.</p></div>
+        <h2>Tu forma de vestir.<br /><em>Tu forma<br />de expresarte.</em></h2>
+        <div className="about-culture__copy"><p>Los calzados que eliges, las prendas que combinas y los accesorios que llevas cuentan algo de ti. El deporte, la música y la vida cotidiana también inspiran tu forma de vestir.</p><p>En C &amp; E Store puedes explorar esas opciones en un mismo lugar y combinarlas a tu manera.</p></div>
         <p className="about-culture__line">Música <span>Deporte</span> Moda urbana <span>Tu identidad</span></p>
       </Reveal>
       <Reveal id="redes" className="about-social">
@@ -69,8 +69,8 @@ export default function About({ onNavigate }) {
         </a>
       </Reveal>
       <Reveal className="about-finale">
-        <div><p className="about-kicker">Tu siguiente paso empieza aquí</p><h2>Encuentra<br />tu próximo favorito.</h2></div>
-        <div><p>Explora nuestras colecciones y descubre diferentes marcas, estilos y modelos.</p><div className="about-actions"><StoreLink {...linkProps} href="/catalogo/hombre" destination="hombre">Ver Hombre <span aria-hidden="true">→</span></StoreLink><StoreLink {...linkProps} href="/catalogo/mujer" destination="mujer">Ver Mujer <span aria-hidden="true">→</span></StoreLink><StoreLink {...linkProps} href="/catalogo/accesorios" destination="accesorios">Ver Accesorios <span aria-hidden="true">→</span></StoreLink></div></div>
+        <div><p className="about-kicker">Tu próxima combinación empieza aquí</p><h2>Encuentra<br />tu próximo favorito.</h2></div>
+        <div><p>Empieza por calzados, descubre nuestra ropa o encuentra el accesorio que completa tu conjunto.</p><div className="about-actions"><StoreLink {...linkProps} href="/catalogo/calzados" destination="calzados">Ver Calzados <span aria-hidden="true">→</span></StoreLink><StoreLink {...linkProps} href="/catalogo/ropa" destination="ropa">Ver Ropa <span aria-hidden="true">→</span></StoreLink><StoreLink {...linkProps} href="/catalogo/accesorios" destination="accesorios">Ver Accesorios <span aria-hidden="true">→</span></StoreLink></div></div>
       </Reveal>
     </div>
   )

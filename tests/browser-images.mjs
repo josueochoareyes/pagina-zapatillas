@@ -63,7 +63,10 @@ try {
   await send('Runtime.enable')
   const navigate = async path => {
     await send('Page.navigate', { url: `http://127.0.0.1:5173${path}` })
-    await pause(600)
+    for (let attempt = 0; attempt < 60; attempt++) {
+      if (await evaluate('!!document.querySelector("main img")')) break
+      await pause(100)
+    }
   }
   const decoded = async selector => evaluate(`(async () => { const images = [...document.querySelectorAll(${JSON.stringify(selector)})]; if (!images.length) return false; images.forEach(img => img.loading = "eager"); await Promise.race([Promise.all(images.map(img => img.decode().catch(() => {}))), new Promise(resolve => setTimeout(resolve, 8000))]); return images.every(img => img.naturalWidth > 0); })()`)
   for (const path of ['/', '/catalogo', '/nosotros']) {
@@ -93,7 +96,7 @@ try {
     await viewport(1440)
   }
   assert.deepEqual(errors, [])
-  console.log(`PASS: 24 products, ${variants} variants, home/catalog/about images, mobile layout; no runtime errors`)
+  console.log(`PASS: ${Object.values(CATALOGS).reduce((total, collection) => total + collection.products.length, 0)} products, ${variants} variants, home/catalog/about images, mobile layout; no runtime errors`)
 } finally {
   ws.close()
 }

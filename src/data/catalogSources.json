@@ -1,0 +1,1354 @@
+[
+  {
+    "sourceNumbers": [
+      67
+    ],
+    "sku": "IG2378",
+    "brand": "Adidas",
+    "model": "HEAWYN",
+    "gender": "hombre",
+    "color": "Azul marino y plateado",
+    "sourceUrl": "https://www.hiperatos.com/products/zapatilla-adidas-heawyn-ig2378-hombre",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0281/3709/5247/files/IG2378_1_FOOTWEAR_Photography_SideLateralCenterView_white.jpg?v=1754084241",
+    "confidence": "high",
+    "visualVerified": true,
+    "status": "existing",
+    "productId": "h-adidas-heawyn",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/HEAWYN/Azul_marino.jpg"
+  },
+  {
+    "sourceNumbers": [
+      68
+    ],
+    "sku": "ID9422",
+    "brand": "Adidas",
+    "model": "Avryn",
+    "gender": "hombre",
+    "color": "Gris y plateado",
+    "sourceUrl": "https://www.adidas.com.my/en/avryn-shoes/ID9422.html",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_jpg,q_auto/89a809639c5e4f9a9e6faf5d00b57421_9366/Avryn_Shoes_Grey_ID9422_01_standard.jpg",
+    "confidence": "high",
+    "audience": "unisex",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-adidas-avryn",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Avryn/Gris_y_plateado.jpg"
+  },
+  {
+    "sourceNumbers": [
+      71
+    ],
+    "sku": "IG9922",
+    "brand": "Adidas",
+    "model": "Response",
+    "gender": "hombre",
+    "color": "Negro y blanco",
+    "sourceUrl": "https://www.adidas.cl/zapatillas-response/IG9922.html",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_jpg,q_auto/b383bec4abcd48c9b40f0cf6079cf162_9366/Zapatillas_Response_Negro_IG9922_01_standard.jpg",
+    "confidence": "high",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-adidas-response",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Response/Negro_y_blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      74
+    ],
+    "sku": "CN5900",
+    "brand": "Reebok",
+    "model": "Royal Complete CLN",
+    "gender": "hombre",
+    "color": "Blanco y caramelo",
+    "sourceUrl": "https://3cheaps.com/pantofi-sport-rebook-royal-complete-cln-44-eu-alb-cn5900/p/CHESYSUYS",
+    "imageUrl": "https://s13emagst.akamaized.net/products/27591/27590736/images/res_4590d43104fb6a130679e928aabeba90.jpg?width=1200&height=1200&hash=67722D0AE8F65815A012E0AC74B30018",
+    "confidence": "high",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-reebok-royal-complete-cln",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Reebok/Royal Complete CLN/Blanco_y_caramelo.jpg"
+  },
+  {
+    "sourceNumbers": [
+      76
+    ],
+    "sku": "364422-14",
+    "brand": "Puma",
+    "model": "Escaper SL",
+    "gender": "hombre",
+    "color": "Blanco",
+    "sourceUrl": "https://www.superstep.com.tr/urun/puma-escaper-sl-erkek-beyaz-sneaker/364422-14-1/",
+    "imageUrl": "https://8f08a8-ss.akinoncloudcdn.com/products/2021/02/15/172638/52723b72-b5d6-4fb2-a2c4-79684f2576fd_size1200_cropCenter.jpg",
+    "confidence": "medium",
+    "notes": "Reference only shows base SKU 364422; matching all-white 14 variant must be visually checked.",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-puma-escaper-sl",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Puma/Escaper SL/Blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      78
+    ],
+    "sku": "GV9029",
+    "brand": "Adidas",
+    "model": "Supernova 2",
+    "gender": "hombre",
+    "color": "Blanco y negro",
+    "sourceUrl": "https://www.kickscrew.com/products/adidas-supernova-2-0-shoes-non-dyed-black-gv9029",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0603/3031/1875/files/main-square_b4c9326f-6241-40fd-ab0b-760295894421_3840x.jpg?v=1706082053",
+    "confidence": "high",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-adidas-supernova-2",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Supernova 2/Blanco_y_negro.jpg"
+  },
+  {
+    "sourceNumbers": [
+      72
+    ],
+    "sku": "FY7756",
+    "brand": "Adidas",
+    "model": "Forum Low",
+    "gender": "hombre",
+    "color": "Blanco y azul",
+    "sourceUrl": "https://www.outbacksylt.com/adidas-forum-low-white-blue-34435",
+    "imageUrl": "https://www.outbacksylt.com/img/16015/adidas-forum-low-white-blue-fy7756-1.jpg?options=rs:fill:1000:1000/g:ce/dpr:1",
+    "confidence": "high",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-adidas-forum-low",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low/Blanco_y_azul.jpg"
+  },
+  {
+    "sourceNumber": 1,
+    "sku": "GX6657",
+    "model": "Adizero Boston 11",
+    "gender": "mujer",
+    "color": "Negro / blanco / gris",
+    "sourceUrl": "https://www.adidas.pe/zapatillas-adizero-boston-11/GX6657.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/bfd34e832bcd4a72bd16ae6f01415beb_9366/Zapatillas_Adizero_Boston_11_Negro_GX6657_01_standard.jpg",
+    "sourceNumbers": [
+      1
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-adizero-boston-11",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Negro_y_blanco_y_gris.jpg"
+  },
+  {
+    "sourceNumber": 2,
+    "sku": "GX9266",
+    "model": "4DFWD 2",
+    "gender": "mujer",
+    "color": "Negro / blanco / carbón",
+    "sourceUrl": "https://www.adidas.pe/zapatillas-de-running-adidas-4dfwd-2/GX9266.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/bf16b80971094501a849aed7011ea4a0_9366/Zapatillas_de_Running_adidas_4DFWD_2_Negro_GX9266_01_standard.jpg",
+    "sourceNumbers": [
+      2
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-4dfwd-2",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/4DFWD 2/Negro_y_blanco_y_carbón.jpg"
+  },
+  {
+    "sourceNumber": 3,
+    "sku": "S42545",
+    "model": "Supernova",
+    "gender": "mujer",
+    "color": "Negro / blanco / plateado",
+    "sourceUrl": "https://www.adidas.com.vn/en/supernova-shoes/S42545.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/65b164c2c5074f71b9eeacb8010e0f36_9366/Supernova_Shoes_Black_S42545_01_standard.jpg",
+    "sourceNumbers": [
+      3
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-supernova",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Supernova/Negro_y_blanco_y_plateado.jpg"
+  },
+  {
+    "sourceNumber": 4,
+    "sku": "HQ6347",
+    "model": "Ultraboost Light",
+    "gender": "mujer",
+    "color": "Azul / coral",
+    "sourceUrl": "https://www.adidas.com.my/en/ultraboost-light-shoes/HQ6347.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/426119c90b4547428440af890136799b_9366/Ultraboost_Light_Shoes_Blue_HQ6347_01_standard.jpg",
+    "sourceNumbers": [
+      4
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-ultraboost-light",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost Light/Azul_y_coral.jpg"
+  },
+  {
+    "sourceNumber": 5,
+    "sku": "GY2585",
+    "model": "Adizero Boston 11",
+    "gender": "mujer",
+    "color": "Blanco / crema / negro",
+    "sourceUrl": "https://www.goat.com/sneakers/wmns-adizero-boston-11-non-dyed-gy2585",
+    "confidence": "high",
+    "imageUrl": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/099/422/909/original/GY2585.png.png?action=crop&width=750",
+    "sourceNumbers": [
+      5
+    ],
+    "visualVerified": true,
+    "notes": "Screenshot has incorrect annotated SKU HQ3698. Exact visual product is GY2585; white/cream Boston11 Non Dyed verified against GOAT product photo.",
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-adizero-boston-11",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Blanco_y_crema_y_negro.png"
+  },
+  {
+    "sourceNumber": 6,
+    "sku": "HP2815",
+    "model": "Astir SN",
+    "gender": "mujer",
+    "color": "Blanco / verde",
+    "sourceUrl": "https://www.adidas.com.au/astir-sn-shoes/HP2815.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/1671fedb4ab647728815af8800b26347_9366/Astir_SN_Shoes_White_HP2815_01_standard.jpg",
+    "sourceNumbers": [
+      6
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-astir-sn",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Astir SN/Blanco_y_verde.jpg"
+  },
+  {
+    "sourceNumber": 7,
+    "sku": "HQ6039",
+    "model": "Superstar Millencon",
+    "gender": "mujer",
+    "color": "Blanco / negro",
+    "sourceUrl": "https://www.adidas.com.au/superstar-millencon-shoes/HQ6039.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/ef32f6c920b2464bb977af8900a6d406_9366/Superstar_Millencon_Shoes_White_HQ6039_01_standard.jpg",
+    "sourceNumbers": [
+      7
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-superstar-millencon",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Superstar Millencon/Blanco_y_negro.jpg"
+  },
+  {
+    "sourceNumber": 8,
+    "sku": "HQ6867",
+    "model": "Nizza Platform Mid André Saraiva",
+    "gender": "mujer",
+    "color": "Negro / rosa / blanco",
+    "sourceUrl": "https://www.adidas.co.uk/nizza-platform-mid-shoes/HQ6867.html",
+    "confidence": "high",
+    "imageUrl": "https://static.ftshp.digital/img/p/8/3/5/8/4/3/835843-thickbox.jpg",
+    "sourceNumbers": [
+      8
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-nizza-platform-mid-andre-saraiva",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Nizza Platform Mid André Saraiva/Negro_y_rosa_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 9,
+    "sku": "FZ6473",
+    "model": "Forum Mid",
+    "gender": "mujer",
+    "color": "Blanco",
+    "sourceUrl": "https://www.adidas.com.au/forum-mid-shoes/FZ6473.html",
+    "confidence": "high",
+    "imageUrl": "https://00846a.cdn.akinoncloud.com/products/2023/07/28/291342/4304ccfe-8076-4249-9cc9-0dc7cc8414d3.jpg",
+    "sourceNumbers": [
+      9
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-forum-mid",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Forum Mid/Blanco.jpg"
+  },
+  {
+    "sourceNumber": 12,
+    "sku": "HP9883",
+    "model": "Znsara",
+    "gender": "mujer",
+    "color": "Blanco / escarlata / azul",
+    "sourceUrl": "https://www.falabella.com.pe/falabella-pe/product/19512250/Zapatillas-Urbanas-Mujer-adidas-Znsara-BOOST/19512251",
+    "confidence": "high",
+    "sourceNumbers": [
+      12
+    ],
+    "imageUrl": "https://media.falabella.com/falabellaPE/19512251_1/w=1200,h=1200,fit=cover",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-znsara",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Znsara/Blanco_y_escarlata_y_azul.jpg"
+  },
+  {
+    "sourceNumber": 14,
+    "sku": "IH7763",
+    "model": "Grand Court 2.0",
+    "gender": "mujer",
+    "color": "Blanco / cobre / caramelo",
+    "sourceUrl": "https://www.adidas.cl/zapatillas-adidas-grand-court-2.0/IH7763.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/6a01b4685bdc4dccba30aed8735d323d_9366/Zapatillas_adidas_Grand_Court_2.0_Blanco_IH7763_01_standard.jpg",
+    "sourceNumbers": [
+      14
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-grand-court-2-0",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Grand Court 2.0/Blanco_y_cobre_y_caramelo.jpg"
+  },
+  {
+    "sourceNumber": 16,
+    "sku": "GZ0588",
+    "model": "EQ21 Run",
+    "gender": "mujer",
+    "color": "Gris / rosa / rojo",
+    "sourceUrl": "https://www.adidas.co.th/en/eq21-run-shoes/GZ0588.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/f72940c7a1204085b575ad7901063752_9366/EQ21_Run_Shoes_Grey_GZ0588_01_standard.jpg",
+    "sourceNumbers": [
+      16,
+      41
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-eq21-run",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/EQ21 Run/Gris_y_rosa_y_rojo.jpg"
+  },
+  {
+    "sourceNumber": 17,
+    "sku": "HP2385",
+    "model": "Duramo 10",
+    "gender": "mujer",
+    "color": "Gris / rosa / naranja",
+    "sourceUrl": "https://www.falabella.com/falabella-cl/product/50207526/Duramo-SL-2.0-Zapatilla-Running-Mujer-Gris-adidas/50207532",
+    "confidence": "high",
+    "imageUrl": "https://media.falabella.com/falabellaCL/50207532_1/w=1200,h=1200,fit=cover",
+    "sourceNumbers": [
+      17
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-duramo-10",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Duramo 10/Gris_y_rosa_y_naranja.jpg"
+  },
+  {
+    "sourceNumber": 18,
+    "sku": "GY2247",
+    "model": "Questar",
+    "gender": "mujer",
+    "color": "Gris / rosa / amarillo / blanco",
+    "sourceUrl": "https://www.adidas.com.sg/questar-shoes/GY2247.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/646e1be10d0943069e2dae89001fa9ff_9366/Questar_Shoes_Grey_GY2247_01_standard.jpg",
+    "sourceNumbers": [
+      18
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-questar",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Questar/Gris_y_rosa_y_amarillo_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 21,
+    "sku": "GV7069",
+    "model": "Adizero Boston 11",
+    "gender": "mujer",
+    "color": "Gris / blanco / crema",
+    "sourceUrl": "https://www.marathon.store/pe/productos/marca/adidas/adidas-adizero-boston-11/p/bt_GR_10786317",
+    "confidence": "high",
+    "imageUrl": "https://media.marathon.store/products/h54/h71/h00/9806692319262.jpg",
+    "sourceNumbers": [
+      21
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-adizero-boston-11",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Gris_y_blanco_y_crema.jpg"
+  },
+  {
+    "sourceNumber": 22,
+    "sku": "FY6710",
+    "model": "Duramo SL",
+    "gender": "mujer",
+    "color": "Blanco / azul / rosa",
+    "sourceUrl": "https://www.adidas.com.vn/vi/giay-duramo-sl/FY6710.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/61ce6488e92a474aad13ac9200c36c96_9366/Giay_Duramo_SL_trang_FY6710_01_00_standard.jpg",
+    "sourceNumbers": [
+      22
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-duramo-sl",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Duramo SL/Blanco_y_azul_y_rosa.jpg"
+  },
+  {
+    "sourceNumber": 23,
+    "sku": "IE4345",
+    "model": "Supernova 3",
+    "gender": "mujer",
+    "color": "Negro / blanco",
+    "sourceUrl": "https://www.adidas.com.sg/supernova-3-running-shoes/IE4345.html",
+    "confidence": "high",
+    "imageUrl": "https://img.ncrsport.com/img/storage/large/IE4345-1.jpg",
+    "sourceNumbers": [
+      23
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-supernova-3",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Supernova 3/Negro_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 24,
+    "sku": "IE7991",
+    "model": "Duramo RC",
+    "gender": "mujer",
+    "color": "Jade claro / plateado / lima",
+    "sourceUrl": "https://www.adidas.pe/zapatillas-duramo-rc/IE7991.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/fcf43637c2694ae197a1ab1487a0e8a4_9366/Zapatillas_Duramo_RC_Verde_IE7991_01_standard.jpg",
+    "sourceNumbers": [
+      24
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-duramo-rc",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Duramo RC/Jade_claro_y_plateado_y_lima.jpg"
+  },
+  {
+    "sourceNumber": 25,
+    "sku": "HQ5823",
+    "model": "Terrex Hyperhiker Low",
+    "gender": "infantil",
+    "color": "Negro / gris",
+    "sourceUrl": "https://adidas.kz/krossovki-i-kedy-terrex-hyperhiker-low-k-terrex-hq5823",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/0b27c349d08b438591a8af6300f7d7ef_9366/Terrex_Hyperhiker_Low_Hiking_Shoes_Black_HQ5823_01_standard.jpg",
+    "sourceNumbers": [
+      25
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-terrex-hyperhiker-low",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Terrex Hyperhiker Low/Negro_y_gris.jpg",
+    "catalogCategory": "hombre",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumber": 27,
+    "sku": "IF5393",
+    "model": "Lite Racer 3.0",
+    "gender": "mujer",
+    "color": "Azul marino / dorado / blanco",
+    "sourceUrl": "https://www.adidas.com.tr/en/lite-racer-3.0-shoes/IF5393.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/f4e76ffa3f73422faf1ea7dcf44cca79_9366/Lite_Racer_3.0_Shoes_Blue_IF5393_01_standard.jpg",
+    "sourceNumbers": [
+      27
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-lite-racer-3-0",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Lite Racer 3.0/Azul_marino_y_dorado_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 29,
+    "sku": "FX3640",
+    "model": "Ultimashow",
+    "gender": "mujer",
+    "color": "Azul claro / blanco",
+    "sourceUrl": "https://www.adidas.com.ph/ultimashow-shoes/FX3640.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/51b9ba4c239c43a39ef9abaa01377462_9366/Ultimashow_Shoes_Blue_FX3640_01_standard.jpg",
+    "sourceNumbers": [
+      29
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-ultimashow",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Ultimashow/Azul_claro_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 30,
+    "sku": "IF5173",
+    "model": "Rivalry Hi",
+    "gender": "mujer",
+    "color": "Amarillo pálido / blanco",
+    "sourceUrl": "https://www.adidas.ca/en/rivalry-high-shoes/IF5173.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/d152663806d34e3ca8c6ee2abc152d34_9366/Rivalry_High_Shoes_Yellow_IF5173_01_standard.jpg",
+    "sourceNumbers": [
+      30
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-rivalry-hi",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Rivalry Hi/Amarillo_pálido_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 31,
+    "sku": "HR0050",
+    "model": "Ultraboost 1.0 LCFP",
+    "gender": "mujer",
+    "color": "Blanco crema / rosa",
+    "sourceUrl": "https://us.levelshoes.com/adidas-ultraboost-1-0-lcfp-sneakers-white-fabric-women-low-tops-yek1c4.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.levelshoes.com/cdn-cgi/image/width=720,height=1008,quality=85,format=webp/media/catalog/product/h/r/hr0050-cwcwpn_1.jpg?ts=20230310034541",
+    "sourceNumbers": [
+      31
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-ultraboost-1-0-lcfp",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost 1.0 LCFP/Blanco_crema_y_rosa.jpg"
+  },
+  {
+    "sourceNumber": 32,
+    "sku": "HQ1399",
+    "model": "Ultraboost Light x Parley",
+    "gender": "mujer",
+    "color": "Negro / rosa / blanco",
+    "sourceUrl": "https://www.adidas.com.au/ultraboost-light/HQ1399.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/dc18b873071a440cb0d6afaa00e6407a_9366/Ultraboost_Light_Black_HQ1399_01_standard.jpg",
+    "sourceNumbers": [
+      32
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-ultraboost-light-x-parley",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost Light x Parley/Negro_y_rosa_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 33,
+    "sku": "FX4690",
+    "model": "Terrex AX3",
+    "gender": "mujer",
+    "color": "Gris / negro / verde menta",
+    "sourceUrl": "https://www.adidas.com.ph/terrex-ax3-hiking-shoes/FX4690.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/e2b870126c004183932cac7d00db3522_9366/Terrex_AX3_Hiking_Shoes_Grey_FX4690_01_standard.jpg",
+    "sourceNumbers": [
+      33
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-terrex-ax3",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Terrex AX3/Gris_y_negro_y_verde_menta.jpg"
+  },
+  {
+    "sourceNumber": 34,
+    "sku": "EF0215",
+    "model": "Advantage K",
+    "gender": "infantil",
+    "color": "Blanco / floral multicolor",
+    "sourceUrl": "https://www.adidas.com.br/tenis-advantage/EF0215.html",
+    "confidence": "high",
+    "imageUrl": "https://www.shoelander.com/cdn/shop/products/EF0215-1_600x.jpg?v=1574788425",
+    "sourceNumbers": [
+      34
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-advantage-k",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Advantage K/Blanco_y_floral_multicolor.jpg",
+    "catalogCategory": "mujer",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumber": 36,
+    "sku": "DB0694",
+    "model": "Cloudfoam Pure",
+    "gender": "mujer",
+    "color": "Negro jaspeado / blanco",
+    "sourceUrl": "https://www.goat.com/sneakers/wmns-cloudfoam-pure-core-black-db0694",
+    "confidence": "high",
+    "imageUrl": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/628/711/original/616549_01.jpg.jpeg?action=crop&width=750",
+    "sourceNumbers": [
+      36
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-cloudfoam-pure",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Cloudfoam Pure/Negro_jaspeado_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 39,
+    "sku": "HQ4131",
+    "model": "Duramo 10",
+    "gender": "mujer",
+    "color": "Azul / blanco",
+    "sourceUrl": "https://www.adidas.co/tenis-duramo-10/HQ4131.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/08ac5ebcfbcb4555be21af410105d5a7_9366/Tenis_Duramo_10_Azul_HQ4131_01_standard.jpg",
+    "sourceNumbers": [
+      39
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-duramo-10",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Duramo 10/Azul_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 42,
+    "sku": "HP9884",
+    "model": "Znsara",
+    "gender": "mujer",
+    "color": "Negro / azul metalizado / blanco",
+    "sourceUrl": "https://www.adidas.pe/zapatillas-znsara/HP9884.html",
+    "confidence": "high",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/b544e71eb1e040f8acd0af4600516c28_9366/Zapatillas_Znsara_Negro_HP9884_01_standard.jpg",
+    "sourceNumbers": [
+      42
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-znsara",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Znsara/Negro_y_azul_metalizado_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 43,
+    "sku": "ID6980",
+    "model": "Stan Smith Bonega",
+    "gender": "mujer",
+    "color": "Negro / dorado / rosa / blanco",
+    "sourceUrl": "https://thn.pe/products/zapatillas-urbanas-mujer-adidas-stan-smith-bonega-id6980",
+    "confidence": "high",
+    "imageUrl": "https://thn.pe/cdn/shop/products/ID6980_1.jpg?v=1704235300&width=1200",
+    "sourceNumbers": [
+      43
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-stan-smith-bonega",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Stan Smith Bonega/Negro_y_dorado_y_rosa_y_blanco.jpg"
+  },
+  {
+    "sourceNumber": 44,
+    "sku": "HQ1058",
+    "model": "Terrex Swift R3",
+    "gender": "mujer",
+    "color": "Azul / blanco / coral",
+    "sourceUrl": "https://www.falabella.com.pe/falabella-pe/product/19492847/Zapatillas-Hiking-Mujer-Terrex-Swift-R3-adidas/19492854",
+    "confidence": "high",
+    "imageUrl": "https://media.falabella.com/falabellaPE/19492854_1/w=800,h=800,fit=pad",
+    "sourceNumbers": [
+      44
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "m-adidas-terrex-swift-r3",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Adidas/Terrex Swift R3/Azul_y_blanco_y_coral.jpg"
+  },
+  {
+    "sourceNumber": 75,
+    "sku": "ID9044",
+    "model": "Copa Pure 3 League Turf",
+    "gender": "unisex",
+    "color": "Blanco / rojo / negro",
+    "sourceUrl": "https://www.adidas.com.au/copa-pure-3-league-turf-boots/ID9044.html",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/f427fff2b5464c8eaa7a57b0dc394af7_9366/Copa_Pure_3_League_Turf_Boots_White_ID9044_01_00_standard_hover.jpg",
+    "confidence": "high",
+    "sourceNumbers": [
+      75
+    ],
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "existing",
+    "productId": "h-adidas-chimpunes-copa-pure-3-league",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg"
+  },
+  {
+    "sourceNumbers": [
+      10
+    ],
+    "sku": "DQ2904-001",
+    "model": "Nike Air Max INTRLK",
+    "gender": "mujer",
+    "color": "Negro / blanco",
+    "sourceUrl": "https://www.sneakerjagers.com/en/s/nike-wmns-air-max-interlock-black-white-dq2904-001/335716",
+    "imageUrl": "https://static.clickwire.io/241126/nike-wmns-air-max-interlock-black-white.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      5
+    ],
+    "equivalentSizesEU": [
+      "35.5"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/womens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "m-nike-air-max-intrlk",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Nike/Air Max INTRLK/Negro_y_blanco.png"
+  },
+  {
+    "sourceNumbers": [
+      11,
+      40
+    ],
+    "sku": "DM1119-005",
+    "model": "Nike Legend Essential 3 Next Nature",
+    "gender": "mujer",
+    "color": "Gris Football / azul claro / rosa / blanco",
+    "sourceUrl": "https://www.solesense.com/en-us/nike-legend-essential-3-next-nature-football-grey-red-dm1119-005",
+    "imageUrl": "https://assets.solesense.com/en/images/products/500/nike-legend-essential-3-next-nature-football-grey-red-dm1119-005_1.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      5
+    ],
+    "equivalentSizesEU": [
+      "35.5"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/womens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "m-nike-legend-essential-3-next-nature",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Nike/Legend Essential 3 Next Nature/Gris_Football_y_azul_claro_y_rosa_y_blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      13,
+      45
+    ],
+    "sku": "DR2698-101",
+    "model": "Nike Run Swift 3",
+    "gender": "mujer",
+    "color": "Blanco / platino / plata",
+    "sourceUrl": "https://snkrdunk.com/en/sneakers/DR2698-101",
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20250429025616-0.webp",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      5
+    ],
+    "equivalentSizesEU": [
+      "35.5"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/womens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "formatConversion": "WebP original convertido a PNG sin modificar píxeles, usando canvas del navegador.",
+    "status": "added",
+    "productId": "m-nike-run-swift-3",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Nike/Run Swift 3/Blanco_y_platino_y_plata.png"
+  },
+  {
+    "sourceNumbers": [
+      26
+    ],
+    "sku": "DA1351-002",
+    "model": "Nike City Rep TR",
+    "gender": "mujer",
+    "color": "Negro / blanco / gris oscuro",
+    "sourceUrl": "https://www.nike.sa/en/city-rep-tr-womens-training-shoes/NKDA1351-002.html",
+    "imageUrl": "https://cms-cdn.thesolesupplier.co.uk/2023/11/nike-city-rep-tr-black-white-da1351-002-side.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      5,
+      7,
+      7.5
+    ],
+    "equivalentSizesEU": [
+      "35.5",
+      "38",
+      "38.5"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/womens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "m-nike-city-rep-tr",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Nike/City Rep TR/Negro_y_blanco_y_gris_oscuro.jpg"
+  },
+  {
+    "sourceNumbers": [
+      37
+    ],
+    "sku": "190675-03",
+    "model": "Puma NRGY Comet Jr",
+    "gender": "junior",
+    "color": "Rosa intenso / blanco",
+    "sourceUrl": "https://novelship.com/fr-fr/youth-puma-nrgy-comet-low-top-running-shoes-pink-190675-03",
+    "imageUrl": "https://images.novelship.com/product/_youth__puma_nrgy_comet_low_top_running_shoes_pink_0_44051.jpeg?fit=fill&bg=FFFFFF&trim=color&auto=format,compress&q=75&h=400",
+    "confidence": "high",
+    "notes": "Modelo juvenil, no adulto; foto original incluye código verificable.",
+    "brand": "Puma",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "m-puma-nrgy-comet-jr",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Puma/NRGY Comet Jr/Rosa_intenso_y_blanco.jpg",
+    "catalogCategory": "mujer",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumbers": [
+      48
+    ],
+    "sku": "CQ9545-002",
+    "model": "Nike Legend Essential 2",
+    "gender": "mujer",
+    "color": "Negro / Off Noir",
+    "sourceUrl": "https://www.unisportstore.com/running-shoes/nike-training-shoe-legend-essential-2-black-women/250013/",
+    "imageUrl": "https://thumblr.uniid.it/product/250013/9111f6bbc5f2.jpg",
+    "confidence": "medium-high",
+    "notes": "SKU deducido por coincidencia visual exacta y descripción Women en foto original; no SKU visible.",
+    "brand": "Nike",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "m-nike-legend-essential-2",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Nike/Legend Essential 2/Negro_y_Off_Noir.jpg"
+  },
+  {
+    "sourceNumbers": [
+      49
+    ],
+    "sku": "HM4402-406",
+    "model": "Nike Cosmic Runner GS",
+    "gender": "junior",
+    "color": "Azul marino / turquesa / blanco / naranja",
+    "sourceUrl": "https://www.prochampions.com/nike-cosmic-runner-gs-tenis-azul-de-nio-lifestyle-hmhm4402-406/p",
+    "imageUrl": "https://prochampions.vtexassets.com/arquivos/ids/1208607/Nike-Nike-Cosmic-Runner-Gs-Tenis_HM4402-406_05.jpg",
+    "confidence": "high",
+    "notes": "Modelo escolar GS, no adulto.",
+    "brand": "Nike",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-nike-cosmic-runner-gs",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Cosmic Runner GS/Azul_marino_y_turquesa_y_blanco_y_naranja.jpg",
+    "catalogCategory": "hombre",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumbers": [
+      53
+    ],
+    "sku": "FV0337-300",
+    "model": "Nike Blazer Low Pro Club",
+    "gender": "hombre",
+    "color": "Verde vintage / tostado / goma marrón / crema",
+    "sourceUrl": "https://www.nike.com.pe/nike-blazer-low-pro-club-zapatillas-para-hombre/fv0337-300/10974043013.html",
+    "imageUrl": "https://www.nike.com.pe/dw/image/v2/BJKZ_PRD/on/demandware.static/-/Sites-catalog-equinox/default/dw78419a67/images/hi-res/197598587454_1_20240819-mrtPeru.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      12
+    ],
+    "equivalentSizesEU": [
+      "46"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "existing",
+    "productId": "h-nike-nike-blazer-low-pro-club",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg"
+  },
+  {
+    "sourceNumbers": [
+      54
+    ],
+    "sku": "DM1120-012",
+    "model": "Nike Legend Essential 3 Next Nature",
+    "gender": "hombre",
+    "color": "Gris humo / gris claro / Monarch",
+    "sourceUrl": "https://www.innovasport.com/c/tenis-nike-legend-essential-3-next-nature/p/000000000000294232",
+    "imageUrl": "https://www.innovasport.com/medias/tenis-nike-legend-essential-3-next-nature-is-DM1120-012-1.jpg?context=bWFzdGVyfGltYWdlc3wxMDUyNDJ8aW1hZ2UvanBlZ3xhVzFoWjJWekwyaGpZUzlvWVRFdk1USXpOVGMzT1RJd016ZzVOREl1YW5CbnwxMjlhNGFhM2ZjNjUyYWNiNzU4ZDc2ZDAxZjM3MmNlNzNmYjAzNGRmZWUwNmE5ZTZkYjYzZmZiODA1MzUyZjc2",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      12
+    ],
+    "equivalentSizesEU": [
+      "46"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "existing",
+    "productId": "h-nike-legend-essential-3-next-nature",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Legend Essential 3 Next Nature/Gris.jpeg"
+  },
+  {
+    "sourceNumbers": [
+      55
+    ],
+    "sku": "CU4151-102",
+    "model": "Nike Air Max Bolt",
+    "gender": "hombre",
+    "color": "Blanco / negro",
+    "sourceUrl": "https://www.nike.sa/en/air-max-bolt-mens-shoes/NKCU4151-C.html",
+    "imageUrl": "https://img.ncrsport.com/img/storage/large/CU4151-102-1.jpg",
+    "confidence": "medium-high",
+    "notes": "Código por coincidencia visual del color y modelo; original muestra caja y zapatilla, código no visible.",
+    "brand": "Nike",
+    "visualVerified": true,
+    "status": "existing",
+    "productId": "h-nike-nike-air-max-bolt",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg"
+  },
+  {
+    "sourceNumbers": [
+      59
+    ],
+    "sku": "CD0197-100",
+    "model": "Nike Flex Control 4",
+    "gender": "hombre",
+    "color": "Blanco / gris humo / negro",
+    "sourceUrl": "https://stockx.com/nike-flex-control-4-white-smoke-grey-black",
+    "imageUrl": "https://www.solezilla.nl/wp-content/uploads/2026/07/19/CD0197-100_nike.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      10,
+      11
+    ],
+    "equivalentSizesEU": [
+      "44",
+      "45"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Anotaciones visibles de las fotos fuente, interpretadas como tallas US según modelo. No confirman inventario; rango 10-11 se conserva como extremos y no se inventa talla 10.5.",
+    "status": "existing",
+    "productId": "h-nike-nike-flex-control-4",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Nike Flex Control 4/Blanco.jpeg"
+  },
+  {
+    "sourceNumbers": [
+      61
+    ],
+    "sku": "JQ8636",
+    "model": "Adidas Endo Run",
+    "gender": "hombre",
+    "color": "Negro / blanco / goma",
+    "sourceUrl": "https://www.hiperatos.com/products/zapatillas-adidas-endo-run-jq8636-hombre",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0281/3709/5247/files/Zapatillas_Adidas_Endo_Run_Hombre_-_Running_JQ8636_Negro.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Adidas",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      11
+    ],
+    "equivalentSizesEU": [
+      "45 1/3"
+    ],
+    "sizeChartSource": "https://www.adidas.com/us/help/size_charts/men-shoes",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "h-adidas-endo-run",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Endo Run/Negro_y_blanco_y_goma.jpg"
+  },
+  {
+    "sourceNumbers": [
+      64
+    ],
+    "sku": "FQ1831-101",
+    "model": "Nike MC Trainer 3",
+    "gender": "hombre",
+    "color": "Sail / dorado / blanco / negro",
+    "sourceUrl": "https://stockx.com/nike-mc-trainer-3-sail-team-gold-white-black",
+    "imageUrl": "https://images.stockx.com/images/Nike-MC-Trainer-3-Sail-Team-Gold-White-Black.jpg?bg=FFFFFF&fit=fill&w=1200&h=857&q=85",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      11
+    ],
+    "equivalentSizesEU": [
+      "45"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "h-nike-mc-trainer-3",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/MC Trainer 3/Crema_y_dorado_y_blanco_y_negro.jpg"
+  },
+  {
+    "sourceNumbers": [
+      65
+    ],
+    "sku": "DD6203-003",
+    "model": "Nike Air Winflo 9",
+    "gender": "hombre",
+    "color": "Negro / gris oscuro / rojo University",
+    "sourceUrl": "https://www.goat.com/sneakers/air-winflo-9-black-university-red-dd6203-003",
+    "imageUrl": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/087/447/920/original/981864_01.jpg.jpeg?width=1200",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      11.5
+    ],
+    "equivalentSizesEU": [
+      "45.5"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "h-nike-air-winflo-9",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Air Winflo 9/Negro_y_gris_oscuro_y_rojo_University.jpg"
+  },
+  {
+    "sourceNumbers": [
+      70
+    ],
+    "sku": "DJ6258-001",
+    "model": "Nike Tanjun",
+    "gender": "hombre",
+    "color": "Negro / negro",
+    "sourceUrl": "https://zapatos.es/p/zapatos-nike-tanjun-dj6258-001-black-black-0000300587768",
+    "imageUrl": "https://img.eobuwie.cloud/product(9/4/e/0/94e016cbd8fe3294aaed6e0cb81829dc6e1082ed_03_0000300587768_is.jpg,jpg)/zapatos-nike-tanjun-dj6258-001-black-black-0000300587768.jpg",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      11
+    ],
+    "equivalentSizesEU": [
+      "45"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "h-nike-tanjun",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Tanjun/negro.jpg"
+  },
+  {
+    "sourceNumbers": [
+      73
+    ],
+    "sku": "CU4151-001",
+    "model": "Nike Air Max Bolt",
+    "gender": "hombre",
+    "color": "Negro completo",
+    "sourceUrl": "https://www.goat.com/sneakers/air-max-bolt-triple-black-cu4151-001",
+    "imageUrl": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/391/828/original/768882_01.jpg.jpeg?width=1200",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "annotatedSizesUS": [
+      11
+    ],
+    "equivalentSizesEU": [
+      "45"
+    ],
+    "sizeChartSource": "https://www.nike.com/size-fit/mens-footwear",
+    "sizeNotes": "Números anotados visibles en foto fuente, interpretados como tallas US según modelo. Conversión EU según tabla oficial. No confirman inventario disponible.",
+    "status": "added",
+    "productId": "h-nike-nike-air-max-bolt",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/Nike Air Max Bolt/Negro.jpg"
+  },
+  {
+    "sourceNumbers": [
+      77
+    ],
+    "sku": "CJ0882-102",
+    "model": "Nike SB Alleyoop",
+    "gender": "hombre",
+    "color": "Blanco / negro / rojo University",
+    "sourceUrl": "https://item.rakuten.co.jp/nike-official/cj0882-102/",
+    "imageUrl": "https://cdn.snkrdunk.com/uploads/media/20230228062418-0.jpeg?size=l",
+    "confidence": "high",
+    "notes": "",
+    "brand": "Nike",
+    "visualVerified": true,
+    "status": "added",
+    "productId": "h-nike-sb-alleyoop",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Nike/SB Alleyoop/Blanco_y_negro_y_rojo_University.jpg"
+  },
+  {
+    "sourceNumbers": [
+      38
+    ],
+    "sku": "117470-NVY",
+    "model": "Skechers BOBS Squad Waves",
+    "gender": "mujer",
+    "color": "Azul marino / blanco",
+    "sourceUrl": "https://www.falabella.com/falabella-cl/product/50179428/Bobs-Squad-Waves-Zapatilla-Urbana-Mujer-Azul-Skechers/50179434",
+    "imageUrl": "https://www.sneakers4u.nl/img/images/2023/02/22/117470_NVY-scaled.jpg",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Skechers",
+    "status": "added",
+    "productId": "m-skechers-bobs-squad-waves",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Skechers/BOBS Squad Waves/Azul_marino_y_blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      46
+    ],
+    "sku": "100033819",
+    "model": "Reebok Stridium 2.0",
+    "gender": "mujer",
+    "color": "Negro / blanco",
+    "sourceUrl": "https://simple.ripley.com.pe/zapatillas-mujer-reebok-deportivas-negro-100033819-2084333393433",
+    "imageUrl": "https://rukminim2.flixcart.com/image/1600/2130/xif0q/shoe/b/v/q/4-100033819-37-reebok-black-original-imagvgcmc8wd4mt4.jpeg?q=80",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Reebok",
+    "status": "added",
+    "productId": "m-reebok-stridium-2-0",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Reebok/Stridium 2.0/Negro_y_blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      47
+    ],
+    "sku": "JI0404",
+    "model": "Adidas Forum Low CL J",
+    "gender": "junior",
+    "color": "Blanco / verde",
+    "sourceUrl": "https://www.falabella.com.pe/falabella-pe/product/20755066/Zapatillas-Urbanas-Junior-Hombre-Adidas-Originals-Forum-Low/20755068",
+    "imageUrl": "https://media.falabella.com/falabellaPE/20755068_1/w=1200,h=1200,fit=pad",
+    "confidence": "alta",
+    "notes": "Modelo juvenil, vendido como Junior Hombre; tallas de referencia 6.5 US.",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-forum-low-cl-j",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low CL J/Blanco_y_verde.jpg",
+    "catalogCategory": "hombre",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumbers": [
+      50
+    ],
+    "sku": "FY5966",
+    "model": "Reebok Royal Glide Ripple Clip",
+    "gender": "mujer",
+    "color": "Blanco / azul iridiscente",
+    "sourceUrl": "https://www.forumsport.com/es-es/reebok-zapatilla-moda-mujer-reebok-royal-glide-rplclp-blmetal-fy5966-1000662329-p",
+    "imageUrl": "https://www.forumsport.com/medias/medias-1000662329-00-P-X-20201026115218-500Wx500H.jpg?context=bWFzdGVyfGltYWdlc3wyMTM4NXxpbWFnZS9qcGVnfGFXMWhaMlZ6TDJneE1TOW9NVFV2T1RjNU9EVXpORGs0Tnpnd05pNXFjR2N8ZGM0ZjM2NTlkZjc4YWM5MmQ1NGMwNWMyNmExMWY3MDlmYzI0N2M0YjczZGFiM2E3N2ZhZTdmZDQxYWFmMTIwZA",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Reebok",
+    "status": "added",
+    "productId": "m-reebok-royal-glide-ripple-clip",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Reebok/Royal Glide Ripple Clip/Blanco_y_azul_iridiscente.jpg"
+  },
+  {
+    "sourceNumbers": [
+      51
+    ],
+    "sku": "DV3999",
+    "model": "Reebok Royal Classic Jogger 2",
+    "gender": "junior",
+    "color": "Rosa / blanco",
+    "sourceUrl": "https://www.ferrersport.com/tienda/calzado/reebok-royal-classic-jogger-2-dv3999",
+    "imageUrl": "https://www.ferrersport.com/sites/default/files/productos/calzado/2019/DV3999/DV3999_FTW_photo_side-lateral_white.jpg",
+    "confidence": "alta modelo y foto; ficha comercial infantil, tallas referencia usuario mayores",
+    "notes": "Modelo infantil/juvenil confirmado por ficha Ferrer Sport (tallas EU 27-34); referencia del usuario marca US5/EU36 y US5.5/EU37. Catalogar como mujer juvenil segun inventario, no afirmar modelo adulto.",
+    "visualVerified": true,
+    "brand": "Reebok",
+    "status": "added",
+    "productId": "m-reebok-royal-classic-jogger-2",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Reebok/Royal Classic Jogger 2/Rosa_y_blanco.jpg",
+    "catalogCategory": "mujer",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumbers": [
+      52
+    ],
+    "sku": "DV3998",
+    "model": "Reebok Royal Classic Jogger 2",
+    "gender": "junior",
+    "color": "Lila / blanco",
+    "sourceUrl": "https://www.ferrersport.com/tienda/calzado/reebok-royal-classic-jogger-2-dv3998",
+    "imageUrl": "https://www.ferrersport.com/sites/default/files/productos/calzado/2019/DV3998/DV3998_FTW_photo_side-lateral_white.jpg",
+    "confidence": "alta modelo y foto; ficha comercial infantil, tallas referencia usuario mayores",
+    "notes": "Modelo infantil/juvenil confirmado por ficha Ferrer Sport (tallas EU 27-34); referencia del usuario marca US5/EU36 y US5.5/EU37. Catalogar como mujer juvenil segun inventario, no afirmar modelo adulto.",
+    "visualVerified": true,
+    "brand": "Reebok",
+    "status": "added",
+    "productId": "m-reebok-royal-classic-jogger-2",
+    "catalogPhoto": "images/Catalogo/Calzados/Mujer/Reebok/Royal Classic Jogger 2/Lila_y_blanco.jpg",
+    "catalogCategory": "mujer",
+    "categoryNotes": "Organizado en Hombre o Mujer según las referencias del inventario; la talla y la denominación juvenil del fabricante no determinan una sección separada, por indicación de la tienda."
+  },
+  {
+    "sourceNumbers": [
+      56
+    ],
+    "sku": "ADYS100303-NKH",
+    "model": "DC Mikey Taylor",
+    "gender": "hombre",
+    "color": "Azul marino / caqui / rojo",
+    "sourceUrl": "https://www.ubuy.kr/en/productde/FNASXYOJU-dc-shoes-mike-taylor-adys100303nkh",
+    "imageUrl": null,
+    "confidence": "high model and colors; edited local photograph",
+    "notes": "Modelo y color leídos de la caja original. Fondo retirado de la fotografía original con imagegen; sin personas ni cajas en el archivo del catálogo.",
+    "imageOrigin": "original-photo-background-removal",
+    "originalPhoto": "nuevas-zapatillas/56.jpeg",
+    "visualVerified": true,
+    "brand": "DC",
+    "status": "added",
+    "productId": "h-dc-mikey-taylor",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/DC/Mikey Taylor/Azul_marino_y_caqui_y_rojo.png"
+  },
+  {
+    "sourceNumbers": [
+      57
+    ],
+    "sku": "FX5522",
+    "model": "Adidas Stan Smith",
+    "gender": "hombre",
+    "color": "Blanco / verde / crema",
+    "sourceUrl": "https://feature.com/products/adidas-originals-stan-smith-cloud-white-collegiate-green",
+    "imageUrl": "https://feature.com/cdn/shop/products/Adidas-Originals-Stan-Smith---Cloud-White-Collegiate-Green-FX5522---03-27-2021---01.jpg?v=1616951820&width=1200",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-stan-smith",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Stan Smith/Blanco_y_verde_y_crema.jpg"
+  },
+  {
+    "sourceNumbers": [
+      58
+    ],
+    "sku": "GW9152",
+    "model": "Adidas Pureboost Jet",
+    "gender": "hombre",
+    "color": "Gris / blanco / negro",
+    "sourceUrl": "https://www.shoebacca.com/products/pureboost-jet-running-shoes-gw9152",
+    "imageUrl": "https://www.shoebacca.com/cdn/shop/files/GW9152_1l.jpg?v=1788697124&width=1200",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "existing",
+    "productId": "h-adidas-pureboost",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Pureboost/Gris.png"
+  },
+  {
+    "sourceNumbers": [
+      60
+    ],
+    "sku": "H03509",
+    "model": "Adidas Ozelle Cloudfoam",
+    "gender": "hombre",
+    "color": "Negro / gris carbono / verde",
+    "sourceUrl": "https://www.falabella.com.pe/falabella-pe/product/19500947/Zapatillas-Urbanas-Hombre-adidas-Ozelle-CLOUDFOAM/19500948",
+    "imageUrl": "https://media.falabella.com/falabellaPE/19500948_1/w=1200,h=1200,fit=pad",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-ozelle-cloudfoam",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Ozelle Cloudfoam/Negro_y_gris_carbono_y_verde.jpg"
+  },
+  {
+    "sourceNumbers": [
+      62
+    ],
+    "sku": "ID1871",
+    "model": "Adidas Run 70s",
+    "gender": "hombre",
+    "color": "Gris / burdeos / blanco",
+    "sourceUrl": "https://www.macys.com/shop/product/adidas-mens-run-70s-casual-sneakers-from-finish-line?ID=15303749",
+    "imageUrl": "https://talabastore.dz/wp-content/uploads/2025/01/1_ID1871.jpg",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-run-70s",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Run 70s/Gris_y_burdeos_y_blanco.jpg"
+  },
+  {
+    "sourceNumbers": [
+      63,
+      69
+    ],
+    "sku": "ID1810",
+    "model": "Adidas Dame Certified",
+    "gender": "hombre",
+    "color": "Blanco / negro / morado",
+    "sourceUrl": "https://www.farfetch.com/ca/shopping/men/adidas-dame-certified-whiteblack-sneakers-item-24765943.aspx",
+    "imageUrl": "https://www.stadiumgoods.com/cdn/shop/files/0i24ernkzvmojehdeoq5u0hgysgy.png?v=1726673896",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "added",
+    "productId": "h-adidas-dame-certified",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Dame Certified/Blanco_y_negro_y_morado.jpg"
+  },
+  {
+    "sourceNumbers": [
+      66
+    ],
+    "sku": "IE4816",
+    "model": "Adidas Ozweego",
+    "gender": "hombre",
+    "color": "Azul marino / negro / gris",
+    "sourceUrl": "https://www.adidas.pe/zapatillas-ozweego/IE4816.html",
+    "imageUrl": "https://assets.adidas.com/images/w_1200,f_auto,q_auto/e23b1bc117234b70baaed368be88d2db_9366/Zapatillas_OZWEEGO_Azul_IE4816_01_standard.jpg",
+    "confidence": "alta",
+    "visualVerified": true,
+    "brand": "Adidas",
+    "status": "existing",
+    "productId": "h-adidas-ozweego",
+    "catalogPhoto": "images/Catalogo/Calzados/Hombre/Adidas/Ozweego/Azul.jpeg"
+  }
+]

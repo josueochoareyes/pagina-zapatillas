@@ -4,6 +4,7 @@ import ProductVisual from './ProductVisual'
 import SizeGuideModal from './SizeGuideModal'
 import { formatPrice, sizeListFor } from '../data/products'
 import { guideKeyFor } from '../data/sizeGuides'
+import { photosFor } from '../data/inventory'
 import { productMessage, waLink } from '../lib/whatsapp'
 
 export default function ProductModal({ product, wished, onToggleWish, onClose, onAdd, hidePrices = false, initialColorIndex = 0 }) {
@@ -12,6 +13,7 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
   const [qty, setQty] = useState(1)
   const [sizeError, setSizeError] = useState(false)
   const [guideOpen, setGuideOpen] = useState(false)
+  const [photoIndex, setPhotoIndex] = useState(0)
 
   useEffect(() => {
     if (product) {
@@ -26,8 +28,10 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
   if (!product) return null
 
   const colorway = product.colors[colorIndex]
-  const run = [...new Set([...sizeListFor(product.category), ...(product.sizes ?? [])])].sort((a, b) => Number(a) - Number(b))
-  const sizes = product.sizes ?? run
+  const pendingSize = product.sizePending || colorway.sizePending
+  const photos = [colorway.photo, ...photosFor(product, colorway)]
+  const run = pendingSize ? sizeListFor(product.category) : [...new Set([...sizeListFor(product.category), ...(product.sizes ?? [])])].sort((a, b) => Number(a) - Number(b))
+  const sizes = pendingSize ? run : product.sizes ?? run
   const discount = product.oldPrice
     ? Math.round((1 - product.price / product.oldPrice) * 100)
     : 0
@@ -56,7 +60,7 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
           <span className="modal__grid" aria-hidden="true" />
 
           <div className="modal__art" key={colorway.name}>
-            <ProductVisual product={product} className="modal__sneaker" colorway={colorway} />
+            <ProductVisual product={product} className="modal__sneaker" colorway={{ ...colorway, photo: photos[photoIndex] || colorway.photo }} />
           </div>
 
           <div className="modal__thumbs">
@@ -65,7 +69,7 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
                 key={cw.name}
                 type="button"
                 className={`thumb ${i === colorIndex ? 'is-on' : ''}`}
-                onClick={() => setColorIndex(i)}
+                onClick={() => { setColorIndex(i); setPhotoIndex(0); setSize(null) }}
                 style={{ '--c': cw.swatch, '--c2': cw.base }}
                 aria-label={cw.name}
                 aria-pressed={i === colorIndex}
@@ -74,6 +78,11 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
               </button>
             ))}
           </div>
+          {photos.length > 1 && <div className="modal__thumbs" role="group" aria-label="Fotos del color seleccionado">
+            {photos.map((photo, i) => <button key={photo} className={`thumb ${photoIndex === i ? 'is-on' : ''}`} type="button" aria-label={`Ver foto ${i + 1}`} aria-pressed={photoIndex === i} onClick={() => setPhotoIndex(i)}>
+              <ProductVisual product={product} colorway={{ ...colorway, photo }} className="thumb__art" />
+            </button>)}
+          </div>}
         </div>
 
         <div className="modal__info">
@@ -98,7 +107,7 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
                   type="button"
                   className={`swatch swatch--ring ${i === colorIndex ? 'is-on' : ''}`}
                   style={{ background: swatchBackground(cw) }}
-                  onClick={() => setColorIndex(i)}
+                  onClick={() => { setColorIndex(i); setPhotoIndex(0); setSize(null) }}
                   title={cw.name}
                   aria-label={cw.name}
                   aria-pressed={i === colorIndex}
@@ -110,13 +119,14 @@ export default function ProductModal({ product, wished, onToggleWish, onClose, o
           <div className="field">
             <div className="field__labelrow">
               <p className="field__label">{product.category === 'accesorios' ? 'Presentación' : 'Talla'}</p>
-              {product.category !== 'accesorios' && <button className="sizeguide__link" type="button" onClick={() => setGuideOpen(true)}>
+              {!pendingSize && !product.category.startsWith('ropa-') && product.category !== 'accesorios' && <button className="sizeguide__link" type="button" onClick={() => setGuideOpen(true)}>
                 Guía de tallas
                 <svg viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
                   <path d="M7 17L17 7M9 7h8v8" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </button>}
             </div>
+            {pendingSize && <p className="product-catalog__note">Selecciona tu talla. Disponibilidad sujeta a confirmación por WhatsApp.</p>}
             <div className="sizes" role="group" aria-label="Elige talla">
               {run.map((s) => {
                 const out = !sizes.includes(s)

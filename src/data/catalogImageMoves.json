@@ -1,0 +1,976 @@
+{
+  "files": [
+    {
+      "from": "images/Catalogo/Accesorios/Balones/Adidas/Balón de Fútbol UEFA Champions League Pro Sala/Blanco.jpeg",
+      "to": "images/Catalogo/Accesorios/Balones/Adidas/Balón de Fútbol UEFA Champions League Pro Sala/Blanco.jpeg",
+      "sha256": "54ddb4f60d01301cd18b55494ae941ebfa314330c8fc29a190bb90908b1c6e75"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Balones/Adidas/UCL Real Madrid Club/Verde_limon.jpeg",
+      "to": "images/Catalogo/Accesorios/Balones/Adidas/UCL Real Madrid Club/Verde_limon.jpeg",
+      "sha256": "45f543a90e050bbb97adf2553b9945c43d621b87a6c440614bc8b9558bab7a3a"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/imagen-principal-accesorios.png",
+      "to": "images/Catalogo/Accesorios/imagen-principal-accesorios.png",
+      "sha256": "94f21e4dba35f680ddef3f25ccca068ea7a70fde55922cd51542b31d3428e2ce"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Adidas/Camo Classic Backpack/Azul.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/Camo Classic Backpack/Azul.png",
+      "sha256": "a87098b86445e5e798f7e1e05bf1a59686c0c3398b634be11fd91f6e95a469e3"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Azul.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Azul.png",
+      "sha256": "df9984d41f3dd2e248996bd97544c1526a69081ede22ca2a33e1ccfccdd66e95"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Rosa.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Rosa.png",
+      "sha256": "78d0955fa227b8e1009478398a170ad26af2c4bd0083ef8063bd1e6568313c71"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Fuccia.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Fuccia.jpg",
+      "sha256": "9d9223b6f3bd45ada7b37a56a0377e5fc2b960167f1f608ec45a1a9d1aea60ab"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Elemental Backpack/Negro.jpg",
+      "sha256": "46812f97593c914a670afb42762ad84a72774b965118a67ba64a950e72d21f03"
+    },
+    {
+      "from": "images/Catalogo/Accesorios/Mochilas/Puma/PHASE AOP BACKPACK/Borgoña.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Puma/PHASE AOP BACKPACK/Borgoña.jpg",
+      "sha256": "f4dc4afdcf01441151090c9429f332b6d927e4c7e65378e501a208d8441ce6a9"
+    },
+    {
+      "from": "images/Catalogo/Calzados/hombre-zapatillas.png",
+      "to": "images/Catalogo/Calzados/hombre-zapatillas.png",
+      "sha256": "ad21fc16f6e34be94453c528466b58c46f786c0b2fd17502ddc376dde0f0637a"
+    },
+    {
+      "from": "images/Catalogo/Calzados/imagen-principal-calzados.png",
+      "to": "images/Catalogo/Calzados/imagen-principal-calzados.png",
+      "sha256": "ceb47a94610adef0ecaf75506eb03438c2a58f6320b588ff1b2c5fe4f9d2c06a"
+    },
+    {
+      "from": "images/Catalogo/Calzados/mujer-zapatillas.png",
+      "to": "images/Catalogo/Calzados/mujer-zapatillas.png",
+      "sha256": "deadbc8fbe823c55b467e5068d6ebe56353c35e981aed75e3ebeee75a03e8155"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Blanco.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/ADIFOM ADILETTE/Blanco.png",
+      "sha256": "61441cd7aef5be9a1b67a3dce4bd90289c6bcde67edfc7bbf6f2b83ec99fdaaa"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/ADIFOM ADILETTE/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/ADIFOM ADILETTE/Negro.jpg",
+      "sha256": "cf5203f18c55daba4653c530748a0d18b6e116bd045509797a7ed78638e3a043"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Adizero Boston 11/Negro.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Adizero Boston 11/Negro.png",
+      "sha256": "f02b8033774d9ea756ceb8c5b94b3fa790854641648c787e6d0e744de10f39d6"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Avryn/Gris_y_plateado.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Avryn/Gris_y_plateado.jpg",
+      "sha256": "b83d8ca6afe130551bc4895bfb5c9841c1e9ecb971765cff6398ef9a4997aefe"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rojo.jpeg",
+      "sha256": "de536a69f994eb74ea44aa3a5443cacfa0686d50391b7d265bc4dbba0c9aac52"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rosa.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Chimpunes Copa Pure 3 League/Blanco_y_rosa.jpeg",
+      "sha256": "1afb86de894e40319d23e2e50db40eaccf495c3bcec7d6afd5bd8189636cc68f"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Courtblock/Blanco.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Courtblock/Blanco.png",
+      "sha256": "7f3147210f94ff535f97a51d04c5b7cefb2a98f519e554b20d70e737f0a9d4eb"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg",
+      "sha256": "d35d531c8a7da9aae0cb21e8dd8b538dd3362671c25139427f00d67829399ca0"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Dame Certified/Blanco_y_negro_y_morado.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Dame Certified/Blanco_y_negro_y_morado.jpg",
+      "sha256": "b88fcc94fab8baa9c7c21b9d4bf00adf272f40d1c8201fb3607d04b8a21a7289"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Dame Certified EXTPLY 2.0/Blanco_y_morado.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Dame Certified EXTPLY 2.0/Blanco_y_morado.png",
+      "sha256": "81aac2d1c725adf121925f66cf00ad91ca221b6e6b3646ba7c7c9118ae0d017b"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Duramo RC/Verde.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Duramo RC/Verde.png",
+      "sha256": "8cf8f215ea4fe94beb8a0b006ceb5fde4c39fcbed57597a0c3c4a8aac233264f"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Endo Run/Negro_y_blanco_y_goma.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Endo Run/Negro_y_blanco_y_goma.jpg",
+      "sha256": "8cf07ad74037b6349f31e2dfe583875901994d3518203ba5f3d0975e6aa8e9ae"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/F50 Messi Club/Azul_y_amarillo.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/F50 Messi Club/Azul_y_amarillo.jpeg",
+      "sha256": "b8e09e40f63aa9a5236453caf1b933f533bdc12e85fb6b62378747ed011345ad"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/F50 Messi Club/Blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/F50 Messi Club/Blanco.jpeg",
+      "sha256": "7833738868772edf8dadb152b161683707e10d716e4aa8def01526b2b919c907"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Forum Low/Blanco_y_azul.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low/Blanco_y_azul.jpg",
+      "sha256": "02a260eab7728a756eae4ff89d6c725a66041392b97fabfb6987a027836ff144"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low CL/Blanco.jpeg",
+      "sha256": "ccdd24a8ffd0dda2cf8fc321727ea99ab694bb51fd267939bdf22472cee31511"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_azul.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low CL/Blanco_y_azul.jpeg",
+      "sha256": "1d03dfcdd2267000a6dc6813bae6a8c5947c2b661b54f72b24a6be8e666c30a4"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Forum Low CL/Blanco_y_negro.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low CL/Blanco_y_negro.jpeg",
+      "sha256": "e34dcf76702e70bcbe5ca8bdbe8206e06f7f6d154d8398fdf8de939a382b3ba7"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Forum Low CL J/Blanco_y_verde.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Forum Low CL J/Blanco_y_verde.jpg",
+      "sha256": "fa61317548b515ebe74c07b19b6b19f25d48f1f1697c2574de5620c4f3ac3d30"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Gazelle Crepe CLOT/Azul_marino.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Gazelle Crepe CLOT/Azul_marino.png",
+      "sha256": "910aaa9db63323c1a41d5e81d68c14189909495344e6a2e05d9fb62a153c87dc"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/HEAWYN/Azul_marino.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/HEAWYN/Azul_marino.jpg",
+      "sha256": "ae626810d1ae02bb17cba91222429e43a88a8fa3900d69987b5a9861d9676cb2"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png",
+      "sha256": "929987bac6d98f304dff91e121a2981016fc4f128142ad6112ae9d3fbfba52ef"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Lite Racer 2.0/Negro_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Lite Racer 2.0/Negro_y_blanco.jpg",
+      "sha256": "4bb9c6af60263486c995b752c65042857486fbb7ff8015480e03b9a93c9a3e98"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Ozelle Cloudfoam/Negro_y_gris_carbono_y_verde.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Ozelle Cloudfoam/Negro_y_gris_carbono_y_verde.jpg",
+      "sha256": "07a0ec0b16d3b57504240038540441df80a2be0fea7047af80bc282e6c3099e6"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Ozweego/Azul.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Ozweego/Azul.jpeg",
+      "sha256": "6c25e454f4035b0867f43cfba86ef5710f5d56be29769b5b8c16681a318cd3a0"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Pureboost/Gris.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Pureboost/Gris.png",
+      "sha256": "1c8c1fed46d9dda47ad6671676a57191a4b308138a6f04d2f666958f4a7cf78a"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Questar Drive Training/Gris.jpg",
+      "sha256": "ec2c2289228466f33044d2282076589ae5bea51d6fe54ea663246fd7afd63b19"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_amarillo.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Questar Drive Training/Gris_y_amarillo.jpg",
+      "sha256": "8fedc3dea6f5b9770041ccd7409e9ce3273b9e8d2b6d569a1232790c53d1125c"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Questar Drive Training/Gris_y_negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Questar Drive Training/Gris_y_negro.jpg",
+      "sha256": "81f195a25a70e8a0b99bb210ce3fbece4f9c37da4614a651621c5925eba8b546"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Response/Negro_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Response/Negro_y_blanco.jpg",
+      "sha256": "60d48bd382f1c4a21b559440e25a7803408b543975cd580268225e1a54b742c4"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Run 70s/Gris_y_burdeos_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Run 70s/Gris_y_burdeos_y_blanco.jpg",
+      "sha256": "0dee5eebfee2b14bb556dee71edfb5ca6135b1e75d90dd48776b609f87c88278"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Azul_oscuro_y_blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Running Runfalcon 5/Azul_oscuro_y_blanco.jpeg",
+      "sha256": "3cf156d19355734f937ff07b5849c43ba4dc6040cf1745fba709544526ef0c3e"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Running Runfalcon 5/Blanco.jpeg",
+      "sha256": "9de2155fb059fe3333b4493285c19f841035918dc38fe9d0df713a0137bcf014"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Running Runfalcon 5/Negro_y_blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Running Runfalcon 5/Negro_y_blanco.jpeg",
+      "sha256": "f6fd9db19a384ce43b57d6e1ecbcb2f2e5cf76636ce691f0011dc519cb760ff9"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Solar Control Men's Running/Gris.png",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Solar Control Men's Running/Gris.png",
+      "sha256": "448be26c06b06ffd9c1e157c66d49e18353b6288b7c3407552be54498192aac5"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Stan Smith/Blanco_y_verde_y_crema.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Stan Smith/Blanco_y_verde_y_crema.jpg",
+      "sha256": "fc7a709d42b50cf3401c7bd88b56471d8ce388882bf3f336d39fc8c200aca00d"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Supernova 2/Blanco_y_negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Supernova 2/Blanco_y_negro.jpg",
+      "sha256": "5d5e0754d04adbe86ab414c5e642910f02f5be75075e4fbd8adf481b1f70e294"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/Terrex Hyperhiker Low/Negro_y_gris.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Terrex Hyperhiker Low/Negro_y_gris.jpg",
+      "sha256": "a497bf115f9c01c842b5c4422eff0765d1220066e381746ee42f393530ed82d1"
+    },
+    {
+      "from": "images/Catalogo/hombres/Adidas/ZNCHILL LIGHTMOTION+/Gris.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/ZNCHILL LIGHTMOTION+/Gris.jpeg",
+      "sha256": "1a1fe89e8c0682d1e26155c73d791c27516f130c05a8602d8c1b3810ff3c1840"
+    },
+    {
+      "from": "images/Catalogo/hombres/DC/Mikey Taylor/Azul_marino_y_caqui_y_rojo.png",
+      "to": "images/Catalogo/Calzados/Hombre/DC/Mikey Taylor/Azul_marino_y_caqui_y_rojo.png",
+      "sha256": "eed53b64ca15b7be0776c9e52946fa3013e65d28aa1c7ddecd9bd99dc9e136ea"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Air Max SYSTM/Negro.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Air Max SYSTM/Negro.jpeg",
+      "sha256": "92a7ef74b377592f48da774188cce86c5dd165a372b45cd32f191b68c67af551"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Air Winflo 9/Negro_y_gris_oscuro_y_rojo_University.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Air Winflo 9/Negro_y_gris_oscuro_y_rojo_University.jpg",
+      "sha256": "d1a650602782ce2964fe7eb0cb77a66d60b34df1ce645d76cbcfd268ff8874fa"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Cosmic Runner GS/Azul_marino_y_turquesa_y_blanco_y_naranja.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Cosmic Runner GS/Azul_marino_y_turquesa_y_blanco_y_naranja.jpg",
+      "sha256": "67798737373112bae23e2a463df801ac15e297f9e3bb43c7941e030d4237b9fb"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Jordan Super Play Slide/Blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Jordan Super Play Slide/Blanco.jpeg",
+      "sha256": "1fa2096d6b9655ea697d2556c686108c924a099e5db5c2d8e167e928e28fafdb"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Jordan Super Play Slide/Morado.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Jordan Super Play Slide/Morado.jpeg",
+      "sha256": "0e27ef71c719cf10da8e5c34465f0934c1b7f5c1aa077ac1861e356fb67fb6d9"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Legend Essential 3 Next Nature/Gris.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Legend Essential 3 Next Nature/Gris.jpeg",
+      "sha256": "50ff4648fbd60971d46b53af6d373788acbf609d0f430a4ec0b80b65ac38881d"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/MC Trainer 3/Crema_y_dorado_y_blanco_y_negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/MC Trainer 3/Crema_y_dorado_y_blanco_y_negro.jpg",
+      "sha256": "f0a5791334b56fa57296f6ccb252fe18ba0de6f013f68c150fb39109f2007040"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Mercurial Superfly 9/beige_y_negro.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Mercurial Superfly 9/beige_y_negro.png",
+      "sha256": "02c83ed37504b929f6838b823db3b72def32f71778db840cacc387fb854ed3d6"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Mercurial Vapor 15 Club/Blanco.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Mercurial Vapor 15 Club/Blanco.png",
+      "sha256": "279193893f04f94b0f4dd766d62e4338832df5e792e5fa914d018725c121c5ce"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Nike Air Max Bolt/Blanco_y_negro.jpeg",
+      "sha256": "0e275f2de73cddc4f2d6c86f1968aef3cee10f70658d5347b6aeecf824cb8591"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Nike Air Max Bolt/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Nike Air Max Bolt/Negro.jpg",
+      "sha256": "b3a122cc048c6293bb853eef0abbbc15c3a54426704f249a4649fa278500da86"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Nike Blazer Low Pro Club/Verde Vintage.jpeg",
+      "sha256": "918920ceb345e0b58bffd411bb59435a8c93c232a118d2b65f44f9e90a1519ab"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Nike Flex Control 4/Blanco.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Nike Flex Control 4/Blanco.jpeg",
+      "sha256": "fb090984e1161f9536e10836520daf1e1c9fbe8f37290128e9097daab81f9859"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Phantom GX 2 Club/Celeste.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Phantom GX 2 Club/Celeste.png",
+      "sha256": "89f22b24468a53cb3a6a7647d0462e51d94754acff73c6fc624ae3bc8926ce30"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/SB Alleyoop/Blanco_y_negro_y_rojo_University.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/SB Alleyoop/Blanco_y_negro_y_rojo_University.jpg",
+      "sha256": "b78ec8712e8b888f36d17d89f2d32904965fbc71f8419fb7f7c7878ddcfe11ca"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Tanjun/negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Tanjun/negro.jpg",
+      "sha256": "83faa6a9767aeab7df9cd9f95277074d136f844e82e995eefccea8cb81834288"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_azul.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Terra Manta/Blanco_y_azul.png",
+      "sha256": "b66f985818994f613f83ca5af9d749d6159d2c0536bb2a0581e9187a8a9f34a8"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_marron.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Terra Manta/Blanco_y_marron.png",
+      "sha256": "bdbc50367a4c44d515adee36f2c878e1a6f4ea67b7da634fa888204d0c5d0730"
+    },
+    {
+      "from": "images/Catalogo/hombres/Nike/Terra Manta/Blanco_y_negro.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Terra Manta/Blanco_y_negro.png",
+      "sha256": "f979cad3166fe4609b4134de9fbeba9292caa2527e835c65625c40d6a6d3549e"
+    },
+    {
+      "from": "images/Catalogo/hombres/Puma/Escaper SL/Blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Puma/Escaper SL/Blanco.jpg",
+      "sha256": "91e4450543c6e0769ce290e6310109d5ea324bb846ef94d8a070af3f84546809"
+    },
+    {
+      "from": "images/Catalogo/hombres/Puma/Ferrari Gigante Mid Leather SF 10/Negro.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Puma/Ferrari Gigante Mid Leather SF 10/Negro.jpeg",
+      "sha256": "b39091f8e21e60538f9ef1d1b01c2f20a1b6e216ae3e2b67a0788109d009c4c1"
+    },
+    {
+      "from": "images/Catalogo/hombres/Reebok/Royal Complete CLN/Blanco_y_caramelo.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Reebok/Royal Complete CLN/Blanco_y_caramelo.jpg",
+      "sha256": "e41c095f8ed198272411cb4a200485e97eec3e2e799c5a212c0be10c1ddbc55a"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Gorros/Adidas/Basico/Negro.png",
+      "to": "images/Catalogo/Accesorios/Gorros/Adidas/Basico/Negro.png",
+      "sha256": "b0c77ac2327045c6f8a9e5d2a8aa2642fb13aedb899a268c00f295a679ef073c"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Gorros/Maui/Snapback Miami Established 1980/Azul.png",
+      "to": "images/Catalogo/Accesorios/Gorros/Maui/Snapback Miami Established 1980/Azul.png",
+      "sha256": "e15078a1e974f7013de80d0531ab426648bf2e008fbf7da97453d09fa6f8b237"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Gorros/Puma/3D Snapback/Azul.png",
+      "to": "images/Catalogo/Accesorios/Gorros/Puma/3D Snapback/Azul.png",
+      "sha256": "c452e137a6bdb1bd0ea770cd6d2e25c98ce5bb430122b8a251a0b870985f0218"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Gorros/Puma/Archive Logo Snapback/Negro.png",
+      "to": "images/Catalogo/Accesorios/Gorros/Puma/Archive Logo Snapback/Negro.png",
+      "sha256": "6bf6063802fe8ed5e53682b3b123e5e04f0395d97278dd4f0e35755d4f6f92d6"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Gorros/Puma/Clásica de Visera Curva/Blanco.png",
+      "to": "images/Catalogo/Accesorios/Gorros/Puma/Clásica de Visera Curva/Blanco.png",
+      "sha256": "ba7d67a43627a461f64361c23b99d0bbf0caff3d68bb2cfde46070a5ea1e7473"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/Adicolor/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/Adicolor/Negro.jpg",
+      "sha256": "d387b691e23200e7a4d53392be12a2ae3d69ebb144ff011afc56c2feaff3917d"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/CLSC BARS BP/Celeste_bebe.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/Celeste_bebe.png",
+      "sha256": "ff8b731e9a4b1a2f095a021bf1562e5fc169948dc6599f8cd0edc28c8d49c412"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/CLSC BARS BP/rosa_bebe.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/CLSC BARS BP/rosa_bebe.png",
+      "sha256": "40a840414e7944df2ef80582b322e5d5e3a0fcac69e94f038805d56537dfe7e4"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/Linear Duffel/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/Linear Duffel/Negro.jpg",
+      "sha256": "b616747561fe16c09fada5c7ac52bb51c422ec933087c4dbe9e90d4314a7056d"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/Tiro Primegreen/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/Tiro Primegreen/Negro.jpg",
+      "sha256": "16e65d8b35db7ef4a31909de6b34ac9fbf3d609dcb09f7bf8d8073eaab81bc42"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Adidas/Youth Backpack Black/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Adidas/Youth Backpack Black/Negro.jpg",
+      "sha256": "c2d67cb8b4eb06fdfc16156c291e117cadab6b41bb899951f1f1cc79d30fa8bc"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Chambers/Azul.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Chambers/Azul.png",
+      "sha256": "3ff8cac73cca97f8cc63cf726a07a23b700737dcfda07479bef18afe6d980787"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Nike/Brasilia Duffel/Azul_marino.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Brasilia Duffel/Azul_marino.jpg",
+      "sha256": "ef8ed041c88831098cc8243d646d89bd0d64291961bcc4c8c4631eef7aa4f3a2"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Nike/Heritage Mini Backpack/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Heritage Mini Backpack/Negro.jpg",
+      "sha256": "0cc20cf9998f1b7d88c5718bf5fcef887ec23656fcc00c329dc07cfb93e29e9d"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Nike/Heritage Mini Backpack/Rosa.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Heritage Mini Backpack/Rosa.jpg",
+      "sha256": "778c0b221b1a04b9b8872c5dfbb614ef7c26baf8d6cfc4cd20feb319819edc1c"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Nike/Nike One/Negro.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Nike/Nike One/Negro.png",
+      "sha256": "db8555973900eee48bca4db2de6ec9f76aaa290cdc007c3f805d8b2e1b0f3a1d"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Puma/Backpack phase/Negro.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Puma/Backpack phase/Negro.png",
+      "sha256": "eac7e31979716f599a25b943df47cd5a36d967bd9b5a83611820ab13b8bdebae"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Puma/Backpack phase/Verde.png",
+      "to": "images/Catalogo/Accesorios/Mochilas/Puma/Backpack phase/Verde.png",
+      "sha256": "19c1ead3ede092db09e524555cc21043337c4f3fd5f14a442edb47e6b364e4c0"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Puma/Backpack phase Li/Azul.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Puma/Backpack phase Li/Azul.jpg",
+      "sha256": "3e75e9b8f4ad3b5c5bd37c25941fa68eca827f284b5290fb480665b678c2cd5c"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Accesorios/Mochilas/Puma/Pro training/Negro.jpg",
+      "to": "images/Catalogo/Accesorios/Mochilas/Puma/Pro training/Negro.jpg",
+      "sha256": "6465097158f974dea46fae61a08e85e706c5b25fb47bd8ff26f5f8a92d5c4a15"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Casacas/Deportiva Perú/Blanco.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Casacas/Deportiva Perú/Blanco.png",
+      "sha256": "4e893e9eb16d8705d3a97d15af05f0f30cc55f6cba16a3c02bebcc9d792912ca"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Casacas/Deportiva SST Summer/Lila_claro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Casacas/Deportiva SST Summer/Lila_claro.png",
+      "sha256": "3837c4569cf3acc65fb18a09f55dc1fc557776069e7d2e1bd4d6b33244af116c"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Buzo Adicolor/Negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Buzo Adicolor/Negro.png",
+      "sha256": "99ecd3f944d48f333d9f8d031fab2c5d11dbb94ffc7e01dd109913b050a6dbf0"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Azul.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Azul.png",
+      "sha256": "a1e9f177c988d2592ac6b3a46ceee9e60152ec9c47bab715908b42f141c5f1f7"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Negro.png",
+      "sha256": "fd8c0743340f2d8e7ce8cd1e940e19fe8cc7c8716ed34d4e34e27a06d7d9acf9"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Rosa.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Buzo Essentials 3 Tiras/Rosa.png",
+      "sha256": "92beef3144c4989d637c534b1361ecc1878888eda55534b09b8b2623eb82aa77"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Linear Logo Tricot/Negro.jpg",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Linear Logo Tricot/Negro.jpg",
+      "sha256": "760cef743f0347cfb0a02a6456456df1be5ac0d049dff5bb9d1094e42ac2b511"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Conjunto/Slim Zipped/Azul.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Conjunto/Slim Zipped/Azul.png",
+      "sha256": "dec07766a25d506af9ae38ff89defba4947cab9da16a09974498d41be48b4bef"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Polera/Polera con Capucha Adicolor Classics Trifolio/azul_marino.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Polera/Polera con Capucha Adicolor Classics Trifolio/azul_marino.png",
+      "sha256": "0319d53392d3333e634bb7e7294d1aa3d04d28d15cf374a8d779cd6cd5970d22"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Polos/Badge of Sport/Negro.jpg",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Polos/Badge of Sport/Negro.jpg",
+      "sha256": "7333c4837b173d4c48562c9aa1b8937482f8f78f2aa6754de4e43f95485b758a"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Polos/Originals Trefoil 50 aniversario, 1972–2022/Negro.jpg",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Polos/Originals Trefoil 50 aniversario, 1972–2022/Negro.jpg",
+      "sha256": "380ddfa0e3ce83e8f2c29f32bb14109ff0cf327732ea3054d0dc2f81a4aace99"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Adidas/Polos/Polo Adidas Originals 3 Tiras/negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Adidas/Polos/Polo Adidas Originals 3 Tiras/negro.png",
+      "sha256": "b1de99bc288623a2aab19d8c7a63f225660b06b57afca6d59384f793eee9fe8d"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Nike/Polera/Polera con Capucha Nike FC/negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Nike/Polera/Polera con Capucha Nike FC/negro.png",
+      "sha256": "16db7817650d5284443212402a8fa242754687fe189c8f3e938634593cdc42ca"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Capucha/negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Capucha/negro.png",
+      "sha256": "5a0bbf2c5da8ddd288f710a3096c36e41cb22abcd48290464d07d89f87ab240b"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Cierre/Azul_marino.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Cierre/Azul_marino.png",
+      "sha256": "4c610cb7ba39906b29b32defccc5d03ac6660cdbdb49ba516fd5b26cec76289c"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Cierre 2/Negro_y_rojo.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Cierre 2/Negro_y_rojo.png",
+      "sha256": "8fd655436ead14d587b9112c29ddebeeaf7fe283ffbce348d9188a9b1ad1a568"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Franjas/Negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma con Franjas/Negro.png",
+      "sha256": "a168ad0b887817b48e1428dcfaa57ed75cd6754e7adbfa171cace48498bc2dc9"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma Essentials/Gris.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma Essentials/Gris.png",
+      "sha256": "7a3ebb61635fe4e6c9743dc1414c68a96c0c174bec9a516dc68af6ba634664e5"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma Essentials/negro.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Deportivo Puma Essentials/negro.png",
+      "sha256": "091e0829ffeb53bd710157acd074ea7bb58ba19351150b841cc2019feff4a922"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Hombre/Puma/Conjunto/Buzo Puma Baseball Tricot/azul_marino.png",
+      "to": "images/Catalogo/Ropa/Hombre/Puma/Conjunto/Buzo Puma Baseball Tricot/azul_marino.png",
+      "sha256": "cb26065e0b4707d2f8d730ba2d6ccd27551eb5aa665de7e45fc1409b9632aa9a"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/casacas/Deportiva Perú/Blanco.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/casacas/Deportiva Perú/Blanco.png",
+      "sha256": "4e893e9eb16d8705d3a97d15af05f0f30cc55f6cba16a3c02bebcc9d792912ca"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/casacas/Sudadera con Capucha Adidas Originals/rosa_palo.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/casacas/Sudadera con Capucha Adidas Originals/rosa_palo.png",
+      "sha256": "ee204175d5fec766086a2934f2a1fbfd5543cb091955c5ae60f92d771464f044"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Azul.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Azul.png",
+      "sha256": "a1e9f177c988d2592ac6b3a46ceee9e60152ec9c47bab715908b42f141c5f1f7"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Negro.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Negro.png",
+      "sha256": "fd8c0743340f2d8e7ce8cd1e940e19fe8cc7c8716ed34d4e34e27a06d7d9acf9"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Rosa.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/conjuntos/Buzo Essentials 3 Tiras/Rosa.png",
+      "sha256": "92beef3144c4989d637c534b1361ecc1878888eda55534b09b8b2623eb82aa77"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/Pantalones/Leggings Deportivos 3 Tiras/Marron.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/Pantalones/Leggings Deportivos 3 Tiras/Marron.png",
+      "sha256": "5c27af4c6a8b4db606a751c066de72919900cde6524799a5a923a405248f18af"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/Polera/Polera con Capucha Adicolor Classics Trifolio/azul_marino.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/Polera/Polera con Capucha Adicolor Classics Trifolio/azul_marino.png",
+      "sha256": "0319d53392d3333e634bb7e7294d1aa3d04d28d15cf374a8d779cd6cd5970d22"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Adidas/Tops/Deportivo Powerreact/Negro.png",
+      "to": "images/Catalogo/Ropa/Mujer/Adidas/Tops/Deportivo Powerreact/Negro.png",
+      "sha256": "bf901ca2d6b551f49c007746ce5dadf6a5e82a16ba18573493dcdd8fb9c44ba2"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Puma/Casacas/Casaca Híbrida Sherpa/Negro.png",
+      "to": "images/Catalogo/Ropa/Mujer/Puma/Casacas/Casaca Híbrida Sherpa/Negro.png",
+      "sha256": "9d8142bbbd38d3dbb2de826098e7684b52a3176bebd059678c1e2440139c08d9"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Ropa/Mujer/Puma/Conjunto/Buzo Deportivo Puma con Capucha/negro.png",
+      "to": "images/Catalogo/Ropa/Mujer/Puma/Conjunto/Buzo Deportivo Puma con Capucha/negro.png",
+      "sha256": "5a0bbf2c5da8ddd288f710a3096c36e41cb22abcd48290464d07d89f87ab240b"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Adizero Boston 11/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Adizero Boston 11/Negro.jpg",
+      "sha256": "625e2cdf56a377d91c89c1d0260eaf0fef69bf2bb5d66fd48e8434d1741973ba"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Gazelle Juventus/Blanco.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Gazelle Juventus/Blanco.jpg",
+      "sha256": "6739938f887908a18e5f3104b122d8bef39cf666d4c3e0a3bc389e08c482a737"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Kanadia 7/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Kanadia 7/Negro.jpg",
+      "sha256": "8fc6e3ca7210ff55a3f3a2f39138e017c48b0fa0ea26433828500e1d133596c2"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Predator 19.4 S/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Predator 19.4 S/Negro.jpg",
+      "sha256": "723226e99d8fa8691c73794fe1ce8235bebbb966a77b23eeec0f91e64cfa07bc"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Run 70s/Gris_y_rojo.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Run 70s/Gris_y_rojo.jpg",
+      "sha256": "9a9cd0bb6a6b60239f648a3df3412fcc8f7825dc8ce409571d0f1d0933d8a516"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Running ADIZERO RC 4/Azul.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Running ADIZERO RC 4/Azul.jpg",
+      "sha256": "6532fec4c60bb8573caa6e8bc31baa3bcd4a05b6594621a5866c2d4943c83f24"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Running ADIZERO RC 4/Gris.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Running ADIZERO RC 4/Gris.jpg",
+      "sha256": "f12497c5719520016666dce45e2de7ebcd34c6ebc119dfc2e3a203a03ffab273"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/Samba ADV/Negro.jpeg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/Samba ADV/Negro.jpeg",
+      "sha256": "344d5cfada66aac95056f18fbd202aee616e3d11a412572be5fc7d9958ce59ac"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/v racer 2.0/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/v racer 2.0/Negro.jpg",
+      "sha256": "40e1f29e31ca6186aa32d150532e733fe5e9087b5dd85de57c481f86480f9a8b"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/X Ghosted.4 FG Superstealth Pack/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/X Ghosted.4 FG Superstealth Pack/Negro.jpg",
+      "sha256": "86bcce105e37aac9e2540230a74d07aa33b5ad4a2f48758d517722cd4b638449"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Adidas/ZNCHILL LIGHTMOTION+/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Adidas/ZNCHILL LIGHTMOTION+/Negro.jpg",
+      "sha256": "d342d110af6a25c41860ee266cf635c9ae813b42a1276906465b33b22a357840"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Nike/Air Max Systm/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Air Max SYSTM/Negro.jpg",
+      "sha256": "c39359da361a9062b6942c25a93f4a676e237b1bbe33053234537e7c7b2324e2"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Nike/Mc Trainer 2/celesste_bebe.png",
+      "to": "images/Catalogo/Calzados/Hombre/Nike/Mc Trainer 2/celesste_bebe.png",
+      "sha256": "eff3cdb02f1931428b3819d278634ad22882f9c97fb9efb6174114ddac0825a7"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Hombre/Reebok/Rewind run/azul_marino.jpg",
+      "to": "images/Catalogo/Calzados/Hombre/Reebok/Rewind run/azul_marino.jpg",
+      "sha256": "528751b33c5fc1133f9db003b521862bc2aa49be12d872fbe7b7c2678c19b852"
+    },
+    {
+      "from": "images/Catalogo/Importacion2/Zapatillas/Mujer/Adidas/Sandalias Adidas Adilette Platform/Coral.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Sandalias Adidas Adilette Platform/Coral.png",
+      "sha256": "27c52c565c9bfa0e474fe16cc9339d0857c2ee247faac83a251afb0a639973ce"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/4DFWD 2/Negro_y_blanco_y_carbón.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/4DFWD 2/Negro_y_blanco_y_carbón.jpg",
+      "sha256": "ace43c4805c378174a6f238ed7c247b226fe787a5475ed0e594d08e1a605219e"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/ADIFOM ADILETTE/Blanco.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/ADIFOM ADILETTE/Blanco.png",
+      "sha256": "61441cd7aef5be9a1b67a3dce4bd90289c6bcde67edfc7bbf6f2b83ec99fdaaa"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/ADIFOM ADILETTE/Negro.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/ADIFOM ADILETTE/Negro.jpg",
+      "sha256": "cf5203f18c55daba4653c530748a0d18b6e116bd045509797a7ed78638e3a043"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Adilette/Marron_y_rosa.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Adilette/Marron_y_rosa.jpg",
+      "sha256": "ce9189685ef17edc21c429a395e5657d08b71e109ab95f722f60506143d3199b"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Adilette Comfort/Amarillo_y_morado.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Adilette Comfort/Amarillo_y_morado.png",
+      "sha256": "05ad41ba428c5aab554491e5b56be291c6b39dbbdd80563f25238326f4dd16a4"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Adizero Boston 11/Blanco_y_crema_y_negro.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Blanco_y_crema_y_negro.png",
+      "sha256": "9c67b48e70d61bb8a0e81262d8cc9dcaf2ec470a2c8302d035522d56fe2cf9c9"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Adizero Boston 11/Gris_y_blanco_y_crema.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Gris_y_blanco_y_crema.jpg",
+      "sha256": "e2bac5445eb95f830ab83b0b21c91e6ea3754799c935c48176eab5d26b32ea92"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Adizero Boston 11/Negro_y_blanco_y_gris.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Adizero Boston 11/Negro_y_blanco_y_gris.jpg",
+      "sha256": "cb1370187bc6c3cd68bf10547b85b2b52aa3560960894bba8b71ca74b80dc11c"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Advantage K/Blanco_y_floral_multicolor.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Advantage K/Blanco_y_floral_multicolor.jpg",
+      "sha256": "8b39ba1f7dfebcec4cb5d0ab1c3d0dff4aae1266264bf827b5b2f7c5e4f5bea5"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Astir SN/Blanco_y_verde.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Astir SN/Blanco_y_verde.jpg",
+      "sha256": "82a69ee010482371fb7f30f7a8fb026f297f4395b773d77e877b46b5ce38fa41"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Cloudfoam Pure/Negro_jaspeado_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Cloudfoam Pure/Negro_jaspeado_y_blanco.jpg",
+      "sha256": "e91847f1e9c3b1e9acd1ddc0a3b8076a7b0f06400d10b37bb50ed0c45e6848b0"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Crazyfast.1 césped sintético/Verde_limon_y_blanco.jpg",
+      "sha256": "d35d531c8a7da9aae0cb21e8dd8b538dd3362671c25139427f00d67829399ca0"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Duramo 10/Azul_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Duramo 10/Azul_y_blanco.jpg",
+      "sha256": "133e285a7ab2ef00bb601d5781d6a221f975c00d5b1f36ad03e23df3748a72aa"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Duramo 10/Gris_y_rosa_y_naranja.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Duramo 10/Gris_y_rosa_y_naranja.jpg",
+      "sha256": "94ea07861714491381bfdeb8d35192d8813a53a73a222d09db28282076fe7bab"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Duramo RC/Jade_claro_y_plateado_y_lima.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Duramo RC/Jade_claro_y_plateado_y_lima.jpg",
+      "sha256": "ca5e48f203408979737772feef4517412661a7573328583794d94f3d05f20eef"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Duramo RC/Verde.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Duramo RC/Verde.png",
+      "sha256": "8cf8f215ea4fe94beb8a0b006ceb5fde4c39fcbed57597a0c3c4a8aac233264f"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Duramo SL/Blanco_y_azul_y_rosa.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Duramo SL/Blanco_y_azul_y_rosa.jpg",
+      "sha256": "029a17d69c135708d37fd96b9a112fa9b2294fc521cdc6dd184e4e8df927e2aa"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/EQ21 Run/Gris_y_rosa_y_rojo.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/EQ21 Run/Gris_y_rosa_y_rojo.jpg",
+      "sha256": "93fed7dbfaed7f23231772a33dd3a67fe1547ffc840f4ff41a2780e3b3e493e7"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Forum Mid/Blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Forum Mid/Blanco.jpg",
+      "sha256": "c7841f3bf4a375381088bedbc08caced6cb4bbcdbdfac8580f67c44235067327"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Grand Court 2.0/Blanco_y_cobre_y_caramelo.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Grand Court 2.0/Blanco_y_cobre_y_caramelo.jpg",
+      "sha256": "c8f1b2a157462f6025aa29d72dcd2203a3f28f77e06fe5e7c0207461ec058ef7"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Jeremy Scott Monogram Adilette Wings/Blanco.png",
+      "sha256": "929987bac6d98f304dff91e121a2981016fc4f128142ad6112ae9d3fbfba52ef"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Lite Racer 3.0/Azul_marino_y_dorado_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Lite Racer 3.0/Azul_marino_y_dorado_y_blanco.jpg",
+      "sha256": "dbe0a4fc0cb219a0f230cbf787bac721bb77a0e86f5acd8f1804f3d1f13cd6c7"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Nizza Platform Mid André Saraiva/Negro_y_rosa_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Nizza Platform Mid André Saraiva/Negro_y_rosa_y_blanco.jpg",
+      "sha256": "29bddd1f0e9df509970cf1d1b415aac91ec96d9e34d594fad7217f84df14d4d9"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Questar/Gris_y_rosa_y_amarillo_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Questar/Gris_y_rosa_y_amarillo_y_blanco.jpg",
+      "sha256": "cc7fce381bcb7ff91bf5b8a13133ee58cc52e32ef49d0051a3243440cf72febf"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Rivalry Hi/Amarillo_pálido_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Rivalry Hi/Amarillo_pálido_y_blanco.jpg",
+      "sha256": "6ede99e2918c00dc1d4d48c83c2e06b0ebddb473c26fbe5c43fd099bbbb87597"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Stan Smith Bonega/Negro_y_dorado_y_rosa_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Stan Smith Bonega/Negro_y_dorado_y_rosa_y_blanco.jpg",
+      "sha256": "00050ef6f42f828f72e21082bfe75f6308a60479a6e246bfdc5242e3470f9c1d"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Supernova/Negro_y_blanco_y_plateado.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Supernova/Negro_y_blanco_y_plateado.jpg",
+      "sha256": "298ea54c0132900610048700c8dd54d05c38a411066b29fb54d8f46f0cb7327d"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Supernova 3/Negro_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Supernova 3/Negro_y_blanco.jpg",
+      "sha256": "c7e723c840e88c8885845f7acb783f06ec3bd636cec847e29556cd4ccf8d6a15"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Superstar Millencon/Blanco_y_negro.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Superstar Millencon/Blanco_y_negro.jpg",
+      "sha256": "c79717787db68067e50838b193d0e47b11e1c354482b6166362766a409ba413e"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Terrex AX3/Gris_y_negro_y_verde_menta.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Terrex AX3/Gris_y_negro_y_verde_menta.jpg",
+      "sha256": "026f72396a31c01a1c854f0913f01279b517cb283583032559118377575629bb"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Terrex Swift R3/Azul_y_blanco_y_coral.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Terrex Swift R3/Azul_y_blanco_y_coral.jpg",
+      "sha256": "7116c43f8f0996af0ccc3e18e5f45807f79493b6a85735d93e1bb0ca7f6912e3"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Ultimashow/Azul_claro_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Ultimashow/Azul_claro_y_blanco.jpg",
+      "sha256": "baa674c9c52d69821bec8df6aaf492ec2f8be6f570976867ce54a7560206f326"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Ultraboost 1.0 LCFP/Blanco_crema_y_rosa.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost 1.0 LCFP/Blanco_crema_y_rosa.jpg",
+      "sha256": "8ce6fb4774ec38a03d1fcad0f707fb6d5d7cf3316d9e4d9127ca94b26e6515fc"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Ultraboost Light/Azul_y_coral.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost Light/Azul_y_coral.jpg",
+      "sha256": "1b11ff972c28235fb623cc69fbe6fd9dee09a07f8f7d491535aa063beaa309eb"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Ultraboost Light x Parley/Negro_y_rosa_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Ultraboost Light x Parley/Negro_y_rosa_y_blanco.jpg",
+      "sha256": "ce5636b96b2e72502b44d4da6be35425784610fd90e96548ca606ec85b353d71"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Znsara/Blanco_y_escarlata_y_azul.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Znsara/Blanco_y_escarlata_y_azul.jpg",
+      "sha256": "489d666e54f070227434ab652ceb6ce4a3135eb6b8f685c98069fdc6c5654513"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Adidas/Znsara/Negro_y_azul_metalizado_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Adidas/Znsara/Negro_y_azul_metalizado_y_blanco.jpg",
+      "sha256": "43c2e693b0b9290e5b330e437af39dca8f7ba7561b69d9a3811a826f0cd1ac85"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/Air Max INTRLK/Negro_y_blanco.png",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/Air Max INTRLK/Negro_y_blanco.png",
+      "sha256": "d6c4e415919f36abc81a125bbc26ce3b158753eda899652cd1b4ca741b1b1ad9"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/City Rep TR/Negro_y_blanco_y_gris_oscuro.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/City Rep TR/Negro_y_blanco_y_gris_oscuro.jpg",
+      "sha256": "00b80f3f413335ddf118214449b7d5fbcb1688a9c5132d54d67e3f7f08c5d30c"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/Legend Essential 2/Negro_y_Off_Noir.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/Legend Essential 2/Negro_y_Off_Noir.jpg",
+      "sha256": "d5a8d9f99b8f5c743979f194ffbb66f3c771b69aea46ac5417aa5671964133d2"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/Legend Essential 3 Next Nature/Gris_Football_y_azul_claro_y_rosa_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/Legend Essential 3 Next Nature/Gris_Football_y_azul_claro_y_rosa_y_blanco.jpg",
+      "sha256": "764106f472314a855b51a6107b7bdd60f53cbd921318f77d6102a3291b6d7f55"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/Phantom GX 2 Club/celeste.png",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/Phantom GX 2 Club/celeste.png",
+      "sha256": "89f22b24468a53cb3a6a7647d0462e51d94754acff73c6fc624ae3bc8926ce30"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Nike/Run Swift 3/Blanco_y_platino_y_plata.png",
+      "to": "images/Catalogo/Calzados/Mujer/Nike/Run Swift 3/Blanco_y_platino_y_plata.png",
+      "sha256": "eb89a14b49e2f442acf13d43967a67f1f2f724b3c59dfa55549992705be99a5b"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Puma/NRGY Comet Jr/Rosa_intenso_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Puma/NRGY Comet Jr/Rosa_intenso_y_blanco.jpg",
+      "sha256": "df5fa33ceb61ee65f1f8a2d5f86d6677aacb575039ad118248c954b57fad34d0"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Reebok/Royal Classic Jogger 2/Lila_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Reebok/Royal Classic Jogger 2/Lila_y_blanco.jpg",
+      "sha256": "1551d9595e02eef1b4d866425d4a8e05cc8d72a6f267dd9b7fe7e8c0ad4862ef"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Reebok/Royal Classic Jogger 2/Rosa_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Reebok/Royal Classic Jogger 2/Rosa_y_blanco.jpg",
+      "sha256": "016ace6848e8dbf9d87a6659b4ce88433fa11e84798fa7ac9e375fb7c0ccb2d2"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Reebok/Royal Glide Ripple Clip/Blanco_y_azul_iridiscente.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Reebok/Royal Glide Ripple Clip/Blanco_y_azul_iridiscente.jpg",
+      "sha256": "97408bc0def295c505cb7e756cd6b43e9091038325cbff0d5fb9622fe455f5e8"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Reebok/Stridium 2.0/Negro_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Reebok/Stridium 2.0/Negro_y_blanco.jpg",
+      "sha256": "7733efe069b036363e6037cd4ade63ea4a025f8cee398696de83d5b65dafd33d"
+    },
+    {
+      "from": "images/Catalogo/mujeres/Skechers/BOBS Squad Waves/Azul_marino_y_blanco.jpg",
+      "to": "images/Catalogo/Calzados/Mujer/Skechers/BOBS Squad Waves/Azul_marino_y_blanco.jpg",
+      "sha256": "e57b8e00b10c0c80de7959b094bbca2ad1224262e087d1b44c4773641516104d"
+    },
+    {
+      "from": "images/Catalogo/Ropa/hombre.png",
+      "to": "images/Catalogo/Ropa/hombre.png",
+      "sha256": "b83247fc39c32491593735addab27d428a293c54508156e2ec5fdd53c1619592"
+    },
+    {
+      "from": "images/Catalogo/Ropa/imagen-principal-ropa.png",
+      "to": "images/Catalogo/Ropa/imagen-principal-ropa.png",
+      "sha256": "a6f214dabe0d244d3c2184b98dbe4db0cc045e6a96d408973ef6147d3237665c"
+    },
+    {
+      "from": "images/Catalogo/Ropa/mujer.png",
+      "to": "images/Catalogo/Ropa/mujer.png",
+      "sha256": "24a8f28c728276ec08b365a1cb20f2deba6d89f049800718d10c09b4f8dcd671"
+    }
+  ],
+  "aliases": [
+    {
+      "from": "images/Catalogo/hombre.png",
+      "to": "images/Catalogo/Calzados/hombre-zapatillas.png",
+      "sha256": "ad21fc16f6e34be94453c528466b58c46f786c0b2fd17502ddc376dde0f0637a"
+    },
+    {
+      "from": "images/Catalogo/mujer.png",
+      "to": "images/Catalogo/Calzados/mujer-zapatillas.png",
+      "sha256": "deadbc8fbe823c55b467e5068d6ebe56353c35e981aed75e3ebeee75a03e8155"
+    },
+    {
+      "from": "images/Catalogo/accesorios.png",
+      "to": "images/Catalogo/Accesorios/imagen-principal-accesorios.png",
+      "sha256": "94f21e4dba35f680ddef3f25ccca068ea7a70fde55922cd51542b31d3428e2ce"
+    }
+  ]
+}

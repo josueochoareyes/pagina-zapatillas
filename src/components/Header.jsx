@@ -36,7 +36,7 @@ export default function Header({
 
   const isOn = (go) => {
     if (go === 'inicio') return stage === 'home'
-    if (go === 'catalogo') return stage === 'picker' || stage === 'catalog' || stage === 'favorites'
+    if (go === 'catalogo') return ['picker', 'calzados', 'ropa', 'catalog', 'favorites'].includes(stage)
     if (go === 'nosotros') return stage === 'about'
     return false
   }

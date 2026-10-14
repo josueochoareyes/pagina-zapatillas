@@ -8,9 +8,9 @@ const LINKS = [
 ]
 
 const KIDS = [
-  { label: 'Hombre', go: 'hombre', note: 'Zapatillas con carácter deportivo' },
-  { label: 'Accesorios', go: 'accesorios', note: 'Mochilas y balones para cada día' },
-  { label: 'Mujer', go: 'mujer', note: 'Diseño para cada movimiento' },
+  { label: 'Calzados', go: 'calzados', note: 'Colecciones de hombre y mujer' },
+  { label: 'Accesorios', go: 'accesorios', note: 'Gorros, mochilas, bolsos y balones' },
+  { label: 'Ropa', go: 'ropa', note: 'Prendas para hombre y mujer' },
 ]
 
 /** Menú móvil a pantalla completa, con tipografía editorial. */

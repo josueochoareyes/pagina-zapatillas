@@ -393,7 +393,8 @@
   .product-catalog__eyebrow { margin-bottom: 10px; }
   .product-catalog__description { font-size: 0.88rem; }
   .product-catalog__back, .collection-switch button { font-size: 0.8rem; }
-  .collection-switch { gap: 16px; }
+  .product-catalog__navigation { flex-wrap: wrap; gap: 8px; }
+  .collection-switch { width: 100%; justify-content: space-between; gap: 12px; }
   .ccontrols__head { padding-block: 18px 16px; }
   /* El eyebrow sube a su propia linea: el riel gana el ancho completo. */
   .ccontrols__brands { flex-direction: column; align-items: flex-start; gap: 10px; }
@@ -440,3 +441,4 @@
   .csort__menu { animation: none; }
   .csort__caret { transition: none; }
 }
+.catalog-types { display: flex; flex-wrap: wrap; gap: 8px; margin-block: 16px; }

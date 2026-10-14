@@ -9,5 +9,6 @@ export default function ProductVisual({ product, colorway, className = '', loadi
   if (photo && failedPhoto !== photo) {
     return <ProductImage className={className} src={photo} alt={`${product.name}, ${colorway.name}`} loading={loading} onError={() => setFailedPhoto(photo)} />
   }
+  if (product.category?.startsWith('ropa-') || product.category === 'accesorios') return <span className={className} role="img" aria-label={`${product.name}, imagen no disponible`}>Imagen no disponible</span>
   return <SneakerArt className={className} colorway={colorway} title={`Ilustración de referencia: ${product.name}, ${colorway.name}`} />
 }
